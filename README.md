@@ -1,6 +1,6 @@
 # CHAR GRINN
 
-
+![Char Grinn Title Image](https://github.com/notsafeadults64/CharGrinn_Modlist/blob/e154c18aa990192be8a0a93c8c71ff3ae3adecbd/CharGrinn_GH.png)
 
 ## Visceral, Grim, & Simplistic
 
