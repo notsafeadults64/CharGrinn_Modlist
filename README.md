@@ -25,7 +25,7 @@ I have carefully curated this mod list based on my own experiences, research, & 
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
-- [LoversLab Account](https://www.loverslab.com/)
+- [LoversLab Account](https://www.loverslab.com/) (OSA + OSTIM Profile ONLY)
 
 ## INSTALLATION
 
