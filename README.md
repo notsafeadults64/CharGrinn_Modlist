@@ -175,24 +175,25 @@ Alienware (2019) Gaming Desktop
 - 32 GB RAM
 - 1 TB SSD
 - Radeon RX 5700 XT @ 8 GB
-- +/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - off)
-- +/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - on)
-- +/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - off)
-- +/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - on)
-- +/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - off) w/ external monitor
-- +/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - on) w/ external monitor
+	- +/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - off)
+	- +/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - on)
+	- +/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - off)
+	- +/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - on)
+	- +/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - off) w/ external monitor
+	- +/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - on) w/ external monitor
 	
 Asus ROG G15 (2021) Gaming Laptop
 - Ryzen 9 5900HS 
 - 24 GB RAM
 - 1 TB SSD
 - GeForce RTX 3070 @ 8 GB
-- 50+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - off)
-- 60+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - on)
-- 35+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - off)
-- 45+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - on)
-- 20+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - off) w/ external monitor
-- 30+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - on) w/ external monitor
+	- 50+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - off)
+	- 60+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - on)
+	- 35+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - off)
+	- 45+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - on)
+	- 20+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - off) w/ external monitor
+	- 30+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - on) w/ external monitor
+
 </details>
 
 
