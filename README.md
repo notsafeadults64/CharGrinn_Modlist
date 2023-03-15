@@ -12,39 +12,74 @@ Welcome to my passion project - the Char Grinn Mod List.
 
 If you're looking for a gaming experience that's gritty and intense, you've come to the right place. This mod list is designed to enhance the atmosphere and gameplay of Skyrim AE (Best of Both Worlds version) with overhauls for combat, magic, archery, and more.
 
+I have carefully curated this mod list based on my own experiences, research, & vision.  I'm confident that you'll find something that suits your taste.
+
 The Char Grinn Mod List comes in two profiles -
 
-## Char Grinn
+### Char Grinn
+<details>
+
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
-## Char Grinn NSFW
+Current ESM + ESP total: 249
+
+- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-1)
+
+</details>
+
+### Char Grinn OSA + OSTIM
+<details>
+
 If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence, so please use discretion when choosing to use this profile.
 
-I have carefully curated this mod list based on my own experiences, research, & vision.  I'm confident that you'll find something that suits your taste.
+- [Load Order Library - Char Grinn Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-nsfw)
+
+Current ESM + ESP total: 254 (MAXED OUT!)
+
+</details>
 
 _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
 
 [NotSafe4dults64 - From xLOD to DynDOLOD and Everything in-between](https://youtu.be/BxHFQaiIVus)
+</details>
 
-## Requirements
+## REQUIREMENTS
+<details>
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
-## Optional BUT RECOMMENDED
+</details>
+
+## OPTIONAL BUT RECOMMENDED
+
+<details>
 
 Char Grinn Modlist was built around the following mods which GREATLY improve overall performance and gameplay.  Playing Char Grinn without these mods may result in fluctating FPS and lack of animations playing.
 
 - [PureDark's Patreon](https://www.patreon.com/PureDark/) Skyrim Upscaler
 - [Ershin's Patreon](https://www.patreon.com/Ershin/)  Open Animation Replacer 
 
+</details>
 
-## INSTALLATION
+## MODS CTD w/ CHAR GRINN
+<details>
 
+No doubt that you will want to customize the Char Grinn modlist to fit your preferred playstyle.  This is encouraged, however, the following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.  
+
+If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
+
+- [IMMERSIVE PATROLS SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) CTD
+- [ORDINARY WOMEN SE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) CTD
+- [NITHI NPC REPLACEMENTS](https://www.nexusmods.com/users/17024379) Naked and/or invisible NPCs
+
+</details>
+
+##  INSTALLATION
+<details>
 ###  Installing Microsoft Visual C++ Redistributable Package
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-
 
 ###  Steam Config
 
@@ -87,16 +122,19 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 **Ensure Enough Free Storage Space**
 
 As of this writing (03/15/2023) approximately **20GB** is required for the `Steam` folder, **350 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+</details>
  
-
 ##  USING WABBAJACK
+<details>
 
 The download and installation process can take a very long time depending on your system specs. 
 
 It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the modlist folder, and the downloads folder) on a solid state drive. Do not place any of these folders on a hard disk drive, flash drive, or external drive of any kind. After the list is installed, you can relocate **only** the downloads folder to such a drive (or delete it, but that may make updating difficult).
+</details>
 
 
 ##  PROBLEMS WITH WABBAJACK
+<details>
 
 There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the bare minimum necessary to get the modlist working. 
 
@@ -126,12 +164,13 @@ Char Grinn will not work with a GOG or pirated version of the game. If you own t
 
 This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. I can't support circumventing MEGA's bandwith restrictions so either sign up for an account or wait for the timeout to expire.
 
+</details>
 
-## Personal Experience w/ Char Grinn modlist
-
+##  WHAT TO EXPECT
+<details>
 In an effort to stabilize this modlist it was installed on two different builds.  While YMMV, feel free to use the following as a baseline prior to installing.
 
-### Note - the fps number is the average experienced.
+### Note - FPS averages provided below are based on my personal experience and should only be used as a reference and NOT the gospel :)
 
 Alienware (2019) Gaming Desktop
 - Ryzen 7 3800X 3.89 GHz
@@ -152,8 +191,58 @@ Asus ROG G15 (2021) Gaming Laptop
 - GeForce RTX 3070 @ 8 GB
 - 50+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - off)
 - 60+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - on)
-- 40+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - off)
+- 35+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - off)
 - 45+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - on)
-- 30+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - off) w/ external monitor
+- 20+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - off) w/ external monitor
 - 30+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - on) w/ external monitor
+</details>
 
+
+##  STARTING A NEW GAME
+<details>
+
+The following steps are REQUIRED if playing the modlist in its' current iteration.  Failure to execute the steps below *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
+
+_Note: Times provided below are based on my personal experience and should only be used as a reference and NOT the gospel :)_
+
+ - 01m 45s: MO2 Launch to Skyrim Main Menu
+ - 00m 20s: New to RaceMenu
+ - 02m 00s: RaceMenu to Final Install Message
+ - 02m 00s: MCM Recorder Profile: NSAF64_Base to complete
+ - 00m 20s: Alternate Start Bed to Initial Location Load
+ - 00m 20s: MCM Recorder Profile: NSAF64_Before You Begin
+ 
+</details>
+
+ ##  FIRST TIME LAUNCH
+<details>
+
+01. Open Mod Organizer 2 (aka MO2)
+02. Select your Char Grinn profile (using *Char Grinn* for this example)
+03. Select *Run* in MO2 to start the game
+04. Once in Skyrim, select *New*
+05. Create & Name your character in RaceMenu (loads automatically)
+06. Get some coffee & allow on-screen messages to completely disappear before touching your controls!
+	- Note: Game will 'Autosave' during this process'
+07. Select *OK* to all pop-up message windows
+08. Open the System Menu and select *Mod Configuration*
+09. Scroll down to *MCM Recorder*
+10. Select *NSAF64_Base* and follow pop-up message windows
+11. Step away from the controls!
+12. Allow *NSAF64_Base* to complete and all on-screen messages to disappear
+13. Select *OK* to all pop-up message windows
+14. Go to the Merdia State and select your origin.
+15. Sleep in the bed (unless you selected the _Escape from this cell_ option).
+	- Note: Vanilla Start is *NOT* tested and should not be selected.
+16. Unpause screen once your location loads (you will switch to 1st person).
+17. Select difficulty level for *Moonlight Tales*
+18. On-Screen message will state *Sunhelm: Started*, find a nearby bed to finish this setup.  
+19. Select *OK* after you wake.
+20. Open the System Menu and select *Mod Configuration*
+21. Scroll down to *MCM Recorder*
+22. Select *NSAF64_Before You Beging* and follow pop-up message windows
+23. Once all on-screen messages and pop-up windows are gone SAVE YOUR GAME and EXIT Skyrim.
+24. Launch Char Grinn profile again through MO2
+25. Load your game and start your journey!
+
+</details>
