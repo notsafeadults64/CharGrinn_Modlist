@@ -106,7 +106,13 @@ I, NotSafeForAdults64 (aka deathonstilts), fully accept any responsibility for d
 
 **Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
 
-You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again.
+You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again.  
+
+Again, if you don't / didn't see the below you don't have the AE version installed.
+
+[Skyrim Anniversary Edition Download prompt](https://preview.redd.it/nt92sg8mdxy71.png?width=3840&format=png&auto=webp&v=enabled&s=4ab3b1b975064119797409185cedd9dfc5c5e5e7)
+
+_Source: [Reddit Post](https://www.reddit.com/r/skyrim/comments/qrgion/screenshots_on_xbox_series_x/)_
 
 **Could not download x:**
 
