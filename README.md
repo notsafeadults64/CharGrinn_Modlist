@@ -249,13 +249,15 @@ _Note: Times provided below are based on my personal experience and should only 
 
 ##  KNOWN ISSUES
 <details>
+	
 The following mod(s) are added for effect and should only be utilized for atmospheric screenshots.
 	
 - [Craftable Shadow Torch SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/64580)
 	- Crashes within certain dungeons due to a shadow error.
 	- Known to crash in Bleak Falls Barrow & Fell Glow Keep
 
-	
+</details>
+
 ##  MODS THAT CAN BE DISABLED
 <details>
 	
