@@ -25,13 +25,25 @@ I have carefully curated this mod list based on my own experiences, research, & 
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
-- [LoversLab Account](https://www.loverslab.com/) (OSA + OSTIM Profile ONLY)
+- [LoversLab Account](https://www.loverslab.com/)
+
+## Optional BUT RECOMMENDED
+
+Char Grinn Modlist was built around the following mods which GREATLY improve overall performance and gameplay.  Playing Char Grinn without these mods may result in fluctating FPS and lack of animations playing.
+
+- [PureDark's Patreon](https://www.patreon.com/PureDark/) Skyrim Upscaler
+- [Ershin's Patreon](https://www.patreon.com/Ershin/)  Open Animation Replacer 
+
+
 
 ## INSTALLATION
+
+###
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+
 
 ###  Steam Config
 
@@ -69,11 +81,13 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 
 As of this writing approximately **20GB** is required for the `Steam` folder, **180 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
+
 ##  USING WABBAJACK
 
 The download and installation process can take a very long time depending on your system specs. 
 
 It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the modlist folder, and the downloads folder) on a solid state drive. Do not place any of these folders on a hard disk drive, flash drive, or external drive of any kind. After the list is installed, you can relocate **only** the downloads folder to such a drive (or delete it, but that may make updating difficult).
+
 
 ##  PROBLEMS WITH WABBAJACK
 
@@ -91,10 +105,13 @@ You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Purchase
 
 Some Internet providers have difficulty accessing the servers which host the files comprising the list. Try using a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, you may need to delete all corrupt local copies before trying again.
 
-**Wabbajack could not find my game folder:**
+**Wabbajack could not find m-Cy game folder:**
 
 Char Grinn will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
 
 **MEGA download cap exceeded.**
 
 This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. I can't support circumventing MEGA's bandwith restrictions so either sign up for an account or wait for the timeout to expire.
+
+
+##  
