@@ -22,6 +22,10 @@ If you're 18+ and looking for something even more intense, the Char Grinn NSFW p
 
 I have carefully curated this mod list based on my own experiences, research, & vision.  I'm confident that you'll find something that suits your taste.
 
+_Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
+
+[NotSafe4dults64 - From xLOD to DynDOLOD and Everything in-between](https://youtu.be/BxHFQaiIVus)
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
@@ -113,29 +117,31 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ## Personal Experience w/ Char Grinn modlist
 
-In an effort to stabilize this modlist it was installed on two different builds.  While YMMV, feel free to use the following as a baseline prior to installing -
+In an effort to stabilize this modlist it was installed on two different builds.  While YMMV, feel free to use the following as a baseline prior to installing.
 
-**Alienware (2019) Gaming Desktop**
+### Note - the fps number is the average experienced.
+
+Alienware (2019) Gaming Desktop
 - Ryzen 7 3800X 3.89 GHz
 - 32 GB RAM
 - 1 TB SSD
 - Radeon RX 5700 XT @ 8 GB
-- fps 1920 x 1080 (Skyrim Upscaler - off)
-- fps 1920 x 1080 (Skyrim Upscaler - on)
-- fps 2560 x 1440 (Skyrim Upscaler - off)
-- fps 2560 x 1440 (Skyrim Upscaler - on)
-- fps 3440 x 1440 (Skyrim Upscaler - off)
-- fps 3440 x 1440 (Skyrim Upscaler - on)
+- 50+/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - off)
+- 60+/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - on)
+- 40+/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - off)
+- 45+/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - on)
+- 30+/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - off) w/ external monitor
+- 30+/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - on) w/ external monitor
 	
-**Asus ROG G15 (2021) Gaming Laptop**
+Asus ROG G15 (2021) Gaming Laptop
 - Ryzen 9 5900HS 
 - 24 GB RAM
 - 1 TB SSD
 - GeForce RTX 3070 @ 8 GB
-- fps 1920 x 1080 (Skyrim Upscaler - off)
-- fps 1920 x 1080 (Skyrim Upscaler - on)
-- fps 2560 x 1440 (Skyrim Upscaler - off)
-- fps 2560 x 1440 (Skyrim Upscaler - on)
-- fps 3440 x 1440 (Skyrim Upscaler - off) w/ external monitor
-- fps 3440 x 1440 (Skyrim Upscaler - on) w/ external monitor
+- 50+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - off)
+- 60+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - on)
+- 40+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - off)
+- 45+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - on)
+- 30+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - off) w/ external monitor
+- 30+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - on) w/ external monitor
 
