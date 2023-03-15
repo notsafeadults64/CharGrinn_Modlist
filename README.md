@@ -254,4 +254,15 @@ The following mod(s) are added for effect and should only be utilized for atmosp
 - [Craftable Shadow Torch SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/64580)
 	- Crashes within certain dungeons due to a shadow error.
 	- Known to crash in Bleak Falls Barrow & Fell Glow Keep
+
+	
+##  MODS THAT CAN BE DISABLED
+<details>
+These mods were added based on my preferences and playstyle.  You are more than welcome to disable these mods, just do so BEFORE starting your game!!
+
+- [GamePad Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/27007)
+	- I use a combiniation of GamePad + Keyboard, this mod allows you to assign keys to combo GamePad buttons.
+- [LamasTinyHud](https://www.nexusmods.com/skyrimspecialedition/mods/82545)
+	- Preferred over iEquip due to easy of use for me.  Again, personal preference!
+
 	
