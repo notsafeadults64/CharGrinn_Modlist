@@ -8,8 +8,6 @@
 
 Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.
 
-Welcome to the Char Grinn Mod List.
-
 If you're looking for a gaming experience that's gritty and intense, you've come to the right place. This mod list is designed to enhance the atmosphere and gameplay of Skyrim AE (Best of Both Worlds version) with overhauls for combat, magic, archery, and more.
 
 I have carefully curated this mod list based on my own experiences, research, & vision.  I'm confident that you'll find something that suits your taste.
