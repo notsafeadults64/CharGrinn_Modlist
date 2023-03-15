@@ -28,7 +28,7 @@ Current ESM + ESP total: 249
 ### Char Grinn OSA + OSTIM (not released)
 <details>
 
-If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence, so please use discretion when choosing to use this profile.
+If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
 - [Load Order Library - Char Grinn Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-nsfw)
 
