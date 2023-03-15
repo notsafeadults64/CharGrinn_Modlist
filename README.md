@@ -25,7 +25,7 @@ I have carefully curated this mod list based on my own experiences, research, & 
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
-- [LoversLab Account](https://www.loverslab.com/)
+- [LoversLab Account](https://www.loverslab.com/) (OSA + OSTIM Profile ONLY)
 
 ## Optional BUT RECOMMENDED
 
@@ -35,10 +35,7 @@ Char Grinn Modlist was built around the following mods which GREATLY improve ove
 - [Ershin's Patreon](https://www.patreon.com/Ershin/)  Open Animation Replacer 
 
 
-
 ## INSTALLATION
-
-###
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
@@ -79,7 +76,7 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 
 **Ensure Enough Free Storage Space**
 
-As of this writing approximately **20GB** is required for the `Steam` folder, **180 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing (03/15/2023) approximately **20GB** is required for the `Steam` folder, **350 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
  
 
 ##  USING WABBAJACK
@@ -114,4 +111,31 @@ Char Grinn will not work with a GOG or pirated version of the game. If you own t
 This shouldn't happen unless you download the list multiple times or download multiple _Wabbajack_ lists. I can't support circumventing MEGA's bandwith restrictions so either sign up for an account or wait for the timeout to expire.
 
 
-##  
+## Personal Experience w/ Char Grinn modlist
+
+In an effort to stabilize this modlist it was installed on two different builds.  While YMMV, feel free to use the following as a baseline prior to installing -
+
+**Alienware (2019) Gaming Desktop**
+- Ryzen 7 3800X 3.89 GHz
+- 32 GB RAM
+- 1 TB SSD
+- Radeon RX 5700 XT @ 8 GB
+- fps 1920 x 1080 (Skyrim Upscaler - off)
+- fps 1920 x 1080 (Skyrim Upscaler - on)
+- fps 2560 x 1440 (Skyrim Upscaler - off)
+- fps 2560 x 1440 (Skyrim Upscaler - on)
+- fps 3440 x 1440 (Skyrim Upscaler - off)
+- fps 3440 x 1440 (Skyrim Upscaler - on)
+	
+**Asus ROG G15 (2021) Gaming Laptop**
+- Ryzen 9 5900HS 
+- 24 GB RAM
+- 1 TB SSD
+- GeForce RTX 3070 @ 8 GB
+- fps 1920 x 1080 (Skyrim Upscaler - off)
+- fps 1920 x 1080 (Skyrim Upscaler - on)
+- fps 2560 x 1440 (Skyrim Upscaler - off)
+- fps 2560 x 1440 (Skyrim Upscaler - on)
+- fps 3440 x 1440 (Skyrim Upscaler - off) w/ external monitor
+- fps 3440 x 1440 (Skyrim Upscaler - on) w/ external monitor
+
