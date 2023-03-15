@@ -29,7 +29,7 @@ _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performa
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
-- [LoversLab Account](https://www.loverslab.com/) (OSA + OSTIM Profile ONLY)
+- [LoversLab Account](https://www.loverslab.com/)
 
 ## Optional BUT RECOMMENDED
 
@@ -59,6 +59,12 @@ _Wabbajack_ will check your game files and make sure that your installed version
 **Install Skyrim** 
 
 The _Anniversary Edition_ upgrade is required. No exceptions will be made. If you do not have the game installed, do so and launch the vanilla game to download all _Creation Club_ content available with the upgrade. If for some reason you have problems with your _Steam_ installation, you may need to verify the local content as described in _Steam's_ documentation.
+
+If you didn't see / do the step in the image below when you first launch Skyrim AE, then you either don't have the AE DLC or you missed this step.  Verify your Steam files for Skyrim AE which _should_ correct this for you. 
+
+[Skyrim Anniversary Edition Download prompt](https://preview.redd.it/nt92sg8mdxy71.png?width=3840&format=png&auto=webp&v=enabled&s=4ab3b1b975064119797409185cedd9dfc5c5e5e7)
+
+_Source: [Reddit Post](https://www.reddit.com/r/skyrim/comments/qrgion/screenshots_on_xbox_series_x/)_
 
 **Do Not Use Any Part of This List in a Protected Folder**
 
