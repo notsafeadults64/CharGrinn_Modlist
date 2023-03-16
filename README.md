@@ -270,4 +270,17 @@ These mods were added based on my preferences and playstyle.  You are more than 
 	
 </details>
 
+## LEVELING & MORE
+<details>
+	
+The following mods impact overall leveling & timescales.  Feel free to adjust to your preferred setup -
+
+- [Leveling Freedom](https://www.nexusmods.com/skyrimspecialedition/mods/69589)
+	- Adjusts how quickly you level up your character.  Char Grinn uses the 2nd slowest option.
+- [Dynamic Timescale SE](https://www.nexusmods.com/skyrimspecialedition/mods/18922)
+	- Adjusts the timescale based on combat, location, and other factors.
+	
+	
+</details>
+
 	
