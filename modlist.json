@@ -10,11 +10,12 @@
     "official": true,
     "tags": [
       "Performance",
-	  "Power Fantasy",
+      "Visceral",
+      "Grim",
       "Vokriinator",
       "CGO",
       "Creation Club",
-      "LotD"      
+      "LotD"      nex
     ],
     "nsfw": false,
     "utility_list": false,
@@ -23,8 +24,8 @@
     "links": {
       "image": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/CharGrinn_GH.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/",
-      "machineURL": "char-grinn",
+      "download": "https://authored-files.wabbajack.org/Char-Grinn.wabbajack",
+      "machineURL": "CharGrinn_Modlist/Char-Grinn",
       "discordURL": ""
     },
     "download_metadata": {
