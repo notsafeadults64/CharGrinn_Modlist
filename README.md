@@ -277,6 +277,8 @@ These mods were added based on my preferences and playstyle.  You are more than 
 	- I use a combiniation of GamePad + Keyboard, this mod allows you to assign keys to combo GamePad buttons.
 - [LamasTinyHud](https://www.nexusmods.com/skyrimspecialedition/mods/82545)
 	- Preferred over iEquip due to ease of use for me.  Again, personal preference!
+- [Craftable Shadow Torch SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/64580)
+	- Completely optional mod and can be disabled if you don't plan to use it.
 	
 </details>
 
