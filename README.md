@@ -246,10 +246,13 @@ _Note: Times provided below are based on my personal experience and should only 
 19. Select *OK* after you wake.
 20. Open the System Menu and select *Mod Configuration*
 21. Scroll down to *MCM Recorder*
-22. Select *NSAF64_Before You Beging* and follow pop-up message windows
-23. Once all on-screen messages and pop-up windows are gone SAVE YOUR GAME and EXIT Skyrim.
-24. Launch Char Grinn profile again through MO2
-25. Load your game and start your journey!
+22. Select *NSAF64_Before You Begin* and follow pop-up message windows.
+23. Once all on-screen messages and pop-up windows are gone, press the BACKSPACE key for Immersive Equipment Display (IED) options.
+24. In Display Manager, select the NSAF64_Presets and click APPLY
+25. In Gear positioning, select the NSAF64_Presets and click APPLY.  Press ESC to close IED.
+26. SAVE YOUR GAME and EXIT Skyrim.
+27. Launch Char Grinn profile again through MO2
+28. Load your game and start your journey!!
 
 </details>
 
