@@ -15,7 +15,7 @@
       "Vokriinator",
       "CGO",
       "Creation Club",
-      "LotD"      nex
+      "LotD"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -29,16 +29,16 @@
       "discordURL": ""
     },
     "download_metadata": {
-      "Hash": "78lBvv7TYZQ=",
-      "Size": 375528186,
-      "NumberOfArchives": 1562,
-      "SizeOfArchives": 162212964839,
-      "NumberOfInstalledFiles": 236457,
-      "SizeOfInstalledFiles": 287943030769
+      "Hash": "BzTpxH6Mo2Y=",
+      "Size": 375507485,
+      "NumberOfArchives": 1626,
+      "SizeOfArchives": 163993586935,
+      "NumberOfInstalledFiles": 290384,
+      "SizeOfInstalledFiles": 306264187118
     }
     "version": "0.0.9.2",
-    "dateCreated": "2023-03-16T00:00:00.0000000A",
-    "dateUpdated": "2023-03-16T00:00:00.0000000A",
+    "dateCreated": "2023-03-16T09:53:15.0000000A",
+    "dateUpdated": "2023-03-16T09:53:15.0000000A",
     "repositoryName": ""
   }
 ]
