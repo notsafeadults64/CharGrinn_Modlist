@@ -19,20 +19,28 @@ The Char Grinn Mod List comes in two profiles -
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
-Current ESM + ESP total: 249
+Current ESM + ESP total: 246
 
 - [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-1)
 
+- BodySlide_Output
+- Nemesis_Output
+
 </details>
 
-### Char Grinn OSA + OSTIM (not released)
+### Char Grinn OSA + OSTIM
 <details>
 
 If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
 - [Load Order Library - Char Grinn Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-nsfw)
 
-Current ESM + ESP total: 254 (MAXED OUT!)
+_Note: This profile uses the following for animations and bodyslides_
+
+- [NSFW] BodySlide_Output - adds different presets
+- [NSFW] Nemesis_Output - adds skimpy clothing
+
+Current ESM + ESP total: 252
 
 </details>
 
@@ -284,3 +292,4 @@ The following mods impact overall leveling & timescales.  Feel free to adjust to
 </details>
 
 	
+ 
