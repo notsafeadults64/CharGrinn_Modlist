@@ -12,14 +12,17 @@ If you're looking for a gaming experience that's gritty and intense, you've come
 
 I have carefully curated this mod list based on my own experiences, research, & vision.  I'm confident that you'll find something that suits your taste.
 
+_Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
+
+[NotSafe4dults64 - From xLOD to DynDOLOD and Everything in-between](https://youtu.be/BxHFQaiIVus)
+
 The Char Grinn Mod List comes in two profiles -
 
 ### Char Grinn
 <details>
+Current ESM + ESP total: 246
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
-
-Current ESM + ESP total: 246
 
 - [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-1)
 
@@ -30,7 +33,8 @@ Current ESM + ESP total: 246
 
 ### Char Grinn OSA + OSTIM
 <details>
-
+Current ESM + ESP total: 252
+	
 If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
 - [Load Order Library - Char Grinn Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-nsfw)
@@ -40,13 +44,6 @@ _Note: This profile uses the following for animations and bodyslides_
 - [NSFW] BodySlide_Output - adds different presets
 - [NSFW] Nemesis_Output - adds skimpy clothing
 
-Current ESM + ESP total: 252
-
-</details>
-
-_Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
-
-[NotSafe4dults64 - From xLOD to DynDOLOD and Everything in-between](https://youtu.be/BxHFQaiIVus)
 </details>
 
 ## REQUIREMENTS
