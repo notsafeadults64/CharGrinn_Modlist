@@ -14,6 +14,11 @@ If you're looking for a gaming experience that's gritty and intense, you've come
 
 I have carefully curated this mod list based on my own experiences, research, & vision.  I'm confident that you'll find something that suits your taste.
 
+Want to see my terrible captures to get an idea of how this modlist plays / looks?
+
+My YouTube focused on this playlist:
+[NotSafe4dults64](https://www.youtbe.com/@notsafeforadults64)
+
 _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
 
 [NotSafe4dults64 - From xLOD to DynDOLOD and Everything in-between](https://youtu.be/BxHFQaiIVus)
