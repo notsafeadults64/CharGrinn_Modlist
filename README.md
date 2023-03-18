@@ -169,12 +169,12 @@ Alienware (2019) Gaming Desktop
 - 32 GB RAM
 - 1 TB SSD
 - Radeon RX 5700 XT @ 8 GB
-	- +/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - off)
-	- +/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - on)
-	- +/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - off)
-	- +/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - on)
-	- +/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - off) w/ external monitor
-	- +/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - on) w/ external monitor
+	- 45+/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - off)
+	- 55+/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - on)
+	- 25+/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - off)
+	- 40+/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - on)
+	- 20+/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - off) w/ external monitor
+	- 30+/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - on) w/ external monitor
 	
 Asus ROG G15 (2021) Gaming Laptop
 - Ryzen 9 5900HS 
@@ -249,7 +249,15 @@ _Note: Times provided below are based on my personal experience and should only 
 	
 Please remember that this is an ALPHA build.  Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
 
+============================================================================================
+	
+I CAN'T MOVE or KEYBOARD / MOUSE UNREPONSIVE!!!
+
+If you're not a Gamepad user, make sure to disable GamePad++ before starting the game.
+
 No doubt that you will want to customize the Char Grinn modlist to fit your preferred playstyle.  This is encouraged, however, the following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.
+	
+============================================================================================
 
 If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
 
