@@ -8,7 +8,7 @@
 
 Wabbajack Version: 0.0.1.0
 
-Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.
+Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.  Mine is just a little less adult currently.
 
 If you're looking for a gaming experience that's gritty and intense, you've come to the right place. This mod list is designed to enhance the atmosphere and gameplay of Skyrim with overhauls for combat, magic, archery, and more.
 
