@@ -253,10 +253,10 @@ No doubt that you will want to customize the Char Grinn modlist to fit your pref
 
 If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
 
-- [IMMERSIVE PATROLS SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) CTD
-- [ORDINARY WOMEN SE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) CTD
+- [IMMERSIVE PATROLS SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) Random CTD
+- [ORDINARY WOMEN SE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) Random CTD
 - [NITHI NPC REPLACEMENTS](https://www.nexusmods.com/users/17024379) Naked and/or invisible NPCs
-- [MINIMAP](https://www.nexusmods.com/skyrimspecialedition/mods/49490) CTD in a few dungeons
+- [MINIMAP](https://www.nexusmods.com/skyrimspecialedition/mods/49490) Repeatable CTD in a few dungeons
 
 The following mod(s) are added for effect and should only be utilized for atmospheric screenshots.  However, I like to live dangerously and use it for most places :p
 	
