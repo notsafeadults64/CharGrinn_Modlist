@@ -67,19 +67,6 @@ Char Grinn Modlist was built around the following mods which GREATLY improve ove
 
 </details>
 
-## MODS CTD w/ CHAR GRINN
-<details>
-
-No doubt that you will want to customize the Char Grinn modlist to fit your preferred playstyle.  This is encouraged, however, the following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.  
-
-If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
-
-- [IMMERSIVE PATROLS SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) CTD
-- [ORDINARY WOMEN SE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) CTD
-- [NITHI NPC REPLACEMENTS](https://www.nexusmods.com/users/17024379) Naked and/or invisible NPCs
-
-</details>
-
 ##  INSTALLATION
 <details>
 ###  Installing Microsoft Visual C++ Redistributable Package
@@ -260,12 +247,23 @@ _Note: Times provided below are based on my personal experience and should only 
 ##  KNOWN ISSUES
 <details>
 	
-The following mod(s) are added for effect and should only be utilized for atmospheric screenshots.
+Please remember that this is an ALPHA build.  Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
+
+No doubt that you will want to customize the Char Grinn modlist to fit your preferred playstyle.  This is encouraged, however, the following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.
+
+If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
+
+- [IMMERSIVE PATROLS SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) CTD
+- [ORDINARY WOMEN SE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) CTD
+- [NITHI NPC REPLACEMENTS](https://www.nexusmods.com/users/17024379) Naked and/or invisible NPCs
+- [MINIMAP](https://www.nexusmods.com/skyrimspecialedition/mods/49490) CTD in a few dungeons
+
+The following mod(s) are added for effect and should only be utilized for atmospheric screenshots.  However, I like to live dangerously and use it for most places :p
 	
 - [Craftable Shadow Torch SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/64580)
 	- Crashes within certain dungeons due to a shadow error.
 	- Known to crash in Bleak Falls Barrow & Fell Glow Keep
-
+	
 </details>
 
 ##  MODS THAT CAN BE DISABLED
