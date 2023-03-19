@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Char Grinn",
+    "description": "Visceral, Grim, & Simplistic.",
+    "author": "NotSafeForAdults64",
+    "maintainers": [
+      "github/notsafeforadults64"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Performance",
+      "Visceral",
+      "Grim",
+      "Vokriinator",
+      "CGO",
+      "Creation Club",
+      "LotD"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/CharGrinn_GH.png",
+      "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Char-Grinn.wabbajack_4d6a65c9-e6ee-4889-b2f2-326b365b07b5",
+      "machineURL": "CharGrinn_Modlist/Char-Grinn",
+      "discordURL": ""
+    },
+    "download_metadata": {
+      "Hash": "shBqr3wr3OQ=",
+      "Size": 387523343,
+      "NumberOfArchives": 1586,
+      "SizeOfArchives": 133550334133,
+      "NumberOfInstalledFiles": 281320,
+      "SizeOfInstalledFiles": 266604073978
+    }
+    "version": "0.0.1.0",
+    "dateCreated": "2023-03-18T04:15:15.0000000A",
+    "dateUpdated": "2023-03-18T04:15:15.0000000A",
+    "repositoryName": ""
+  }
+]
