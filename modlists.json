@@ -29,16 +29,16 @@
       "discordURL": ""
     },
     "download_metadata": {
-      "Hash": "shBqr3wr3OQ=",
-      "Size": 387523343,
-      "NumberOfArchives": 1586,
-      "SizeOfArchives": 133550334133,
-      "NumberOfInstalledFiles": 281320,
-      "SizeOfInstalledFiles": 266604073978
+      "Hash": "OjtXihsYETs=",
+      "Size": 320893017,
+      "NumberOfArchives": 1593,
+      "SizeOfArchives": 135086896944,
+      "NumberOfInstalledFiles": 281196,
+      "SizeOfInstalledFiles": 268825259881
     }
     "version": "0.0.1.0",
     "dateCreated": "2023-03-18T04:15:15.0000000A",
-    "dateUpdated": "2023-03-18T04:15:15.0000000A",
+    "dateUpdated": "2023-03-20T02:04:15.0000000P",
     "repositoryName": ""
   }
 ]
