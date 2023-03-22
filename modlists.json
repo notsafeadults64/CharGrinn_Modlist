@@ -13,7 +13,7 @@
       "Visceral",
       "Grim",
       "Vokriinator",
-      "CGO",
+      "SCAR",
       "Creation Club",
       "LotD"
     ],
@@ -24,21 +24,21 @@
     "links": {
       "image": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/CharGrinn_GH01.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_231e4def-1132-49b0-bf29-90174936ef34",
+      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_cb197afe-61c5-4ba6-a118-d4f7585950c8",
       "machineURL": "CharGrinn",
       "discordURL": ""
     },
     "download_metadata": {
-      "Hash": "WU3BYTxrbqM=",
-      "Size": 321117892,
-      "NumberOfArchives": 1600,
-      "SizeOfArchives": 135091201171,
-      "NumberOfInstalledFiles": 281908,
-      "SizeOfInstalledFiles": 268955996841
+      "Hash": "elvq9z2BYig=",
+      "Size": 375645526,
+      "NumberOfArchives": 1601,
+      "SizeOfArchives": 134315765901,
+      "NumberOfInstalledFiles": 278674,
+      "SizeOfInstalledFiles": 264341604215
     },
-    "version": "0.0.1.0",
+    "version": "0.0.1.1",
     "dateCreated": "2023-03-18T04:15:15.0000000A",
-    "dateUpdated": "2023-03-20T01:12:15.0000000P",
+    "dateUpdated": "2023-03-21T10:22:15.0000000P",
     "repositoryName": ""
   }
 ]
