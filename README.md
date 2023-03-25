@@ -6,7 +6,7 @@
 
 ## INTRODUCTION
 
-Wabbajack Version: 0.0.1.0
+Wabbajack Version: 0.0.1.2
 
 Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.  Mine is just a little less adult currently.
 
@@ -38,7 +38,7 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn OSA + OSTIM
+### Char Grinn OSA + OSTIM (PLANNED RELEASE)
 <details>
 Current ESM + ESP total: 252
 	
