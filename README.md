@@ -27,7 +27,7 @@ The Char Grinn Mod List comes in two profiles -
 
 ### Char Grinn
 <details>
-Current ESM + ESP total: 246
+Current ESM + ESP total: 241
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
@@ -40,7 +40,7 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 ### Char Grinn OSA + OSTIM (PLANNED RELEASE)
 <details>
-Current ESM + ESP total: 252
+Current ESM + ESP total: 254
 	
 If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
@@ -118,7 +118,7 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 
 **Ensure Enough Free Storage Space**
 
-As of this writing (03/15/2023) approximately **20GB** is required for the `Steam` folder, **350 GB** for the downloads folder, and **200GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing (03/15/2023) approximately **20GB** is required for the `Steam` folder, **125GB** for the downloads folder, and **250GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
 </details>
  
 ##  USING WABBAJACK
