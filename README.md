@@ -20,7 +20,7 @@ My YouTube focused on this playlist:
 [NotSafe4dults64](https://www.youtube.com/@notsafeforadults64)
 
 Deep Voice's Review of the modlist!!!!
-https://www.youtube.com/watch?v=PCawMwnISFA&t=752s
+[New Skyrim AE Modpack Char Grinn || A Gritty & Intense Experience](https://www.youtube.com/watch?v=PCawMwnISFA&t=752s)
 
 _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
 
@@ -201,6 +201,8 @@ Asus ROG G15 (2021) Gaming Laptop
 
 ##  STARTING A NEW GAME
 <details>
+
+Alternatively, you can follow this video guide: https://youtu.be/5xYulRgbvTw
 
 The following steps are REQUIRED if playing the modlist in its' current iteration.  Failure to execute the steps below *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
 
