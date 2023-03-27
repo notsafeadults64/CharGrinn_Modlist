@@ -254,6 +254,10 @@ _Note: Times provided below are based on my personal experience and should only 
 	
 Please remember that this is an ALPHA build.  Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
 
+- Males start nude!  Yeah, this one currently escapes me.  If you have any insight, let me know :)  Otherwise, I will continue to dig.
+- Invisible Armors on NPCs.  This is due the Gwelda female armors being assigned to male NPCs.  Should be addressed in the next release.
+- Shields on Backs are not working properly.  Hoping to have addressed in next release.
+	
 ============================================================================================
 	
 I CAN'T MOVE or KEYBOARD / MOUSE UNREPONSIVE!!!
@@ -269,7 +273,7 @@ If you figure out the root cause of the CTD, please share!  My goal is to have a
 - [IMMERSIVE PATROLS SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) Random CTD
 - [ORDINARY WOMEN SE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) Random CTD
 - [NITHI NPC REPLACEMENTS](https://www.nexusmods.com/users/17024379) Naked and/or invisible NPCs
-- [MINIMAP](https://www.nexusmods.com/skyrimspecialedition/mods/49490) Repeatable CTD in a few dungeons
+- [MINIMAP](https://www.nexusmods.com/skyrimspecialedition/mods/49490) Repeatable CTD in a few dungeons (e.g. Ustengrav Depths)
 
 The following mod(s) are added for effect and should only be utilized for atmospheric screenshots.  However, I like to live dangerously and use it for most places :p
 	
