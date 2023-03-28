@@ -6,7 +6,7 @@
 
 ## INTRODUCTION
 
-Wabbajack Version: 0.0.1.2
+Wabbajack Version: 0.0.1.3 (released 03/27/2023)
 
 Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.  Mine is just a little less adult currently.
 
