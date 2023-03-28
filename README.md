@@ -16,11 +16,14 @@ I have carefully curated this mod list based on my own experiences, research, & 
 
 Want to see my terrible captures to get an idea of how this modlist plays / looks?
 
-My YouTube focused on this playlist:
-[NotSafe4dults64](https://www.youtube.com/@notsafeforadults64)
+- My YouTube focused on this playlist:
+[NotSafe4Adults64](https://www.youtube.com/@notsafeforadults64)
 
-Deep Voice's Review of the modlist!!!!
+- Deep Voice's Review of the modlist!!!!
 [New Skyrim AE Modpack Char Grinn || A Gritty & Intense Experience](https://www.youtube.com/watch?v=PCawMwnISFA&t=752s)
+
+- Biggie_Boss' Review of the modlist!!!!
+[BRAND NEW | Char Grinn ALPHA | Skyrim Modlist Quicklook](https://www.youtube.com/watch?v=8ZwR236tq3c)
 
 _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
 
