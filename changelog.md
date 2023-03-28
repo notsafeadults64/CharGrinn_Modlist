@@ -15,7 +15,7 @@ _Tweaks_
 
 _Combat Overhaul Mods_
 
-- Added TUDM -The Ultimate Dodge Mod v4 x64
+- Added TUDM -The Ultimate Dodge Mod Reborn
   - Added (DMC) The Ultimate Dodge Mod -Settings Loader
   - Added TUDM RS Children Patch
   - Added The Ultimate Dodge Mod -Quest Requirement Removed
