@@ -11,7 +11,7 @@
 
 _Tweaks_
 
-- Added Added Dynamic Weather and Time Based Detection
+- Added Dynamic Weather and Time Based Detection
 
 _Combat Overhaul Mods_
 
