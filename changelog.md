@@ -9,6 +9,8 @@
 - Removed Take Notes -Journal of the Dragonborn SSE
 - Removed Legendary Armors -DeserterX Collection SSE
 
+- Added custom SmoothCam preset - NSAF64_Preset - which focuses on a close and claustrophic experience.  Feedback ENCOURAGED!
+  
 _Tweaks_
 
 - Added Dynamic Weather and Time Based Detection
