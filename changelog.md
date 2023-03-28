@@ -57,11 +57,11 @@ _Horror - Quests_
   - Added The Falkreath Hauntings -Moon and Star patch.
 - Added The Legend of Slender Man
 
-#Fixes
+_Fixes_
 
 - Added Detection Meter v0.17 NG
 
-#Armor - Added Textures
+_Armor - Added Textures_
 
 - Added Bretonic Leather Armor Main
   - Added Bretonic Leather Armor CBBE 3BA BodySlides
