@@ -159,7 +159,7 @@ _Source: [Reddit Post](https://www.reddit.com/r/skyrim/comments/qrgion/screensho
 
 Some Internet providers have difficulty accessing the servers which host the files comprising the list. Try using a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, you may need to delete all corrupt local copies before trying again.
 
-**Wabbajack could not find m-Cy game folder:**
+**Wabbajack could not find my game folder:**
 
 Char Grinn will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
 
