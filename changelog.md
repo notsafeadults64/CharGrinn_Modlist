@@ -43,7 +43,7 @@ _Animations - Immersion_
 _Body - Types_
 
 - Added Kaidan 2 -CBBE and HIMBO BodySlide
-  - Added HIMBO Creation Club Refits for BodySlide
+- Added HIMBO Creation Club Refits for BodySlide
   - Added HIMBO Creation Club Refits -Slider Group Fix
 - Added Sleek Wolf Armor -Replacer
 - Added Necromaster Robers
