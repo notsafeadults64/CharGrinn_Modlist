@@ -9,6 +9,7 @@
 Wabbajack Version: 0.0.1.4 (released 03/28/2023)
 
 - Temporary Support Home:  [Jolly Co-Operators Discord](https://discord.gg/jolly-coop) unofficial-modlists channel
+- Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/bxJMPbjA) 
 
 Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.  Mine is just a little less adult currently.
 
