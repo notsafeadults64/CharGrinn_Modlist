@@ -6,7 +6,7 @@
 
 ## INTRODUCTION
 
-Wabbajack Version: 0.0.1.3 (released 03/27/2023)
+Wabbajack Version: 0.0.1.4 (released 03/28/2023)
 
 Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.  Mine is just a little less adult currently.
 
@@ -262,8 +262,8 @@ _Note: Times provided below are based on my personal experience and should only 
 	
 Please remember that this is an ALPHA build.  Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
 
-- Males start nude!  Yeah, this one currently escapes me.  If you have any insight, let me know :)  Otherwise, I will continue to dig.
-- Invisible Armors on NPCs.  This is due the Gwelda female armors being assigned to male NPCs.  Should be addressed in the next release.
+- Males start nude!  Yeah, this one currently escapes me.  If you have any insight, let me know :)  Otherwise, I will continue to dig.  (may be fixed in 0.0.1.4, need to confirm).
+- Invisible Armors on NPCs.  This is due the Gwelda female armors being assigned to male NPCs.  Should be addressed in the next release.  (fixed in 0.0.1.3)
 - Shields on Backs are not working properly.  Hoping to have addressed in next release.
 	
 ============================================================================================
