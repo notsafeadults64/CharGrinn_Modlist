@@ -1,6 +1,134 @@
 # Char Grinn (Base Profile)
 
+## Char Grinn 0.0.1.4
 
+## 0.0.1.4
+<details>
+
+_Essentials_
+  
+- dTry Plugin Updates
+
+_Animations Movement_
+
+- DAR - Dynamic Swimming - Argonian Mastery
+
+_Textures - Armor_
+
+- Removed SkyTitties Glass Armor Retexture
+
+_Textures - Misc_
+
+- Improved Weapon Impact EFFECTS Correct Metal SE
+
+_Textures - World_
+  
+- Majestic Mountains - Northside
+- Majestic Mountains Darkside
+- Shadow's Majestic Mountains Teardown - Mossy Rocks
+
+_Horror - World Textures
+
+- Dark Forest of Skyrim SE
+- Dark Forest of Skyrim SE - Solstheim Apocalypse
+- Added Foggy Morthal and Swamp
+
+_Audio Overhauls_
+
+- Around the Fire - Skyrim Fan-Made Music
+
+_User Interface_
+
+- Removed LamasTinyHUD
+- Added iEquip
+- Added iEquip Legacy Settings Loader
+- Added Display Real Time in Loading Menu
+
+_Visuals_
+
+- Removed Enhanced Volumetric Lighting and Shadow
+  - Borked RAID Weathers detection parameters
+
+_Quests - Major_
+
+- Falskaar & Associated Patches
+  - Removed due to community feedback that the look & feel of this mod did not mesh with the modlist.
+
+_Horror - Quests_
+
+- Survive the Night SSE
+- Survive the Night SSE - Inventory Patch
+- Sands of Time Sleeping Encounters Standalone Module
+
+_Factions_
+
+- Hunters with Enhanced AI
+- Organic Factions Extension - Patch Collection
+- SSE Enchanced AI Framework
+- SSE Organic Factions
+- SSE Organic Factions Extension
+
+_Head - Beasts_
+
+- Argonian Improvements SSE - Horns
+- BeastHBB - Khajiit and Argonian content - player character and NPC replacer
+- BeastHBB - Khajiit and Argonian content - player character and NPC replacer - Patches
+- Complete NPC Overhaul - Argonians
+- Drachic Argonian Eyes
+- FabULook Eyes SSE Replacer Textures
+- Kala's Eyes- Beast Race Edition Khajiit Argonian
+- Khajiit Aesthetics Compliation - Eyes
+- Khajiit Aesthetics Compliation - Fangs
+- Khajiit Aesthetics Compliation - Hair
+- UHD Dawnguard Vampire Eyes - Argonian Khajiit and Human
+
+_Body - Beasts_
+
+- [4k] Female Dragonic Argonian Textures (CBBE)
+- [4k] Feminine Argonian Textures (Chameleon and Lizard) [CBBE]
+- [4k] Feminine Khajitt Textures (Grey Cat and Leopard) [CBBE]
+- [4k] Forgotten Argonian Roots [SOS-CBBE]
+- [4k] Male Dragonic Argonian Textures (SOS)
+- [4k] Masculine Argonian Textures (Chameleon and Lizard) [SOS-FULL]
+- [4k] Masculine Khajitt Textures (Grey Cat and Leopard) [SOS-FULL]
+
+_Racemenu Overlays_
+
+- More Scar Sliders for High Poly Head
+- More Scars - A Slider for Racemenu
+- RaceMenu Undress
+
+_Religion Overhaul_
+
+- WinterSun - Faiths of Skyrim
+- WinterSun - Faiths of Skyrim - Settings Loader
+- WinterSun - Gallows Hall
+- WinterSun - LotD - Wintersun Book Crafting
+- WinterSun - Moon and Star Patch
+- WinterSun - Skyrim Immersive Creatures Special Edition Patch
+- WinterSun - USSEP Patch
+- WinterSun - Balance Tweaks
+- WinterSun - Description Fixes
+- [4k] Wintersun Textures Reborn
+- (Vokrii Ordinator Wintersun) Ash Pile Retexture - 2k
+
+_Outputs_
+
+- Updated Synthesis_Output
+- Updated BodySlide_Output
+- Updated xLOD_Output
+- Updated TexGen_Output
+- Updated DynDOLOD_Output
+- Updated Char Grinn Custom Settings
+
+_ESP + ESM Total_
+
+- Reduced from 246 to 237!
+  
+</details>
+
+
+  
 ## 0.0.1.3
 <details>
   
