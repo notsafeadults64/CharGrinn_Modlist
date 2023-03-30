@@ -1,6 +1,172 @@
 # Char Grinn (Base Profile)
 
-## Char Grinn 0.0.1.4
+## Char Grinn
+
+## 0.0.1.5
+<details>
+
+_NOTE: Mods removed were due to redundancies, thanks @IAMME and @LADYZEEFA for the assist!_  
+
+_Extenders_
+- Removed Crash Logger
+
+_Foundation_
+- Removed Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
+
+_Tweaks_
+- Added Yet Another Difficulty Mod
+
+_Animations - Immersion_
+- Removed Gesture Animation Remix (DAR)
+
+_Animations - Face_
+- Removed Expressive Facial Animation -Female Edition-
+
+_Graphics Base_
+- Removed Skyrim 202X - Wet Mud
+- Removed Vivid Landscapes Special Edition - Tundra Ground from Skyrim HD 2k
+- Removed Vivid Landscapes - Tundra Region 2k
+- Removed Vivid Landscapes - Imperial Forts - Transparency Fix
+
+_Texture - Cities_
+- Removed [2k] Riften of Reverie
+
+_Texture - Armor_
+- Removed Helgen Reborn's Keepers of Hattu Retexture SE
+- Added Wolf Armor and Weapons Retexture SE
+- Added Deadly Dragons Armory
+- Added Deadly Dragons Armory Hotfix
+
+_Texture - Clutter_
+- Removed Snazzy Furniture and Clutter Overhaul (SFCO) patch
+
+Texture - Creatures
+- Removed Petty Pigeons
+
+_Textures - Weapons_
+- Added Muramasa Katana WK 27
+- Added Shadowmourne SE - Johnskyrim
+
+_Texture - Misc_
+- Removed Farmhouse roofs by Pfuscher
+- Removed Farmhouse roofs by Pfuscher
+
+_Texture -  World_
+- Removed Mossy Whiterun Walls 2K
+- Removed Vivid Landscapes - Tundra Region HD LOD
+- Removed Vivid Landscapes - Special Edition - LOD correction
+
+_Horror - World Textures_
+- Removed Dark Forests of Skyrim SE - Solstheim Apocalypse
+
+_Parallax - Textures_
+- Removed Skyrim Terrain Parallax
+- Removed Vivid Landscapes - Tundra Region SE Parallax
+- Removed Vivid Landscapes - Field of Grass Parallax
+- Removed Vivid Landscapes - Woods SE Parallax
+- Removed Parallax Meshes Part 3 Whiterun
+- Added SSE Parallax Shader Fix (BETA)
+- Added Parallax Mesh Patch Collection
+
+_User Interface_
+- Removed SkyUI SE - Flashing Savegames Fix
+- Removed Better Dialogue Controls
+- Removed Dialogue Interface ReShaped
+- Removed Better MessageBox Controls
+- Added Display Real Time in Loading Menu
+
+_Fixes_
+- Removed Detection Meter
+
+_Restored Content_
+- Removed SkyUI - Better Favorite Menu
+
+_Quests - Minor_
+- Removed Aviendha as Nyx - Redhead - SE-AE
+- Removed The Wheel of Time - My patches SE by Xtudo - Aviendha replacer
+
+_Horror Quests_
+- Survive the Night SSE - render distance fix (Thanks @MaskedRPGFan!)
+
+_NPC Overhauls_
+- Added Bloodline - Volkihar Family
+- Added Blood and Ash
+- Added Ash - Diverse Werewolves Collection Patch
+
+_Critters_
+- Removed Beehive mesh replacer
+
+_Plants & Flora_
+- Removed Dragons tongue by Mari
+
+_Head Beasts_
+- Removed Argonian Vampire Eyes - Dawnguard
+
+_Body - Types_
+- Removed Diamond Skin - CBBE and UNP Female Textures
+- Removed Female Outfit Replacer CBBE Bodyslide
+	- Moving to OSA + OSTIM Profile
+- Removed Sleek Wolf Armor - Replacer
+
+_Body - Beasts_
+- Removed [4k] Forgotten Argonian Roots [SOS-CBBE]
+- Removed [4k] Feminine Argonian Textures (Chameleon and Lizard) [CBBE]
+
+_Racemenu Overlays_
+- Removed Dunmer Overlays for Racemenu
+
+_Combat Overhaul_
+- Added Dual Wield Block
+- Added Dual Wield Block - Settings Loader
+
+_Magic Overhaul_
+- Added Forgotten Magic Redone SE
+- Added Forgotten Magic Redone SE - Patch CTD
+- Added Forgotten Magic Redone - Vokrii Bound Weapons Comodmpatibility Patch
+
+_Misc Overhaul_
+- Added Andromeda - Unique Standing Stones of Skyrim
+- Added Artificer - Artifacts of Skyrim
+- Added Artificer Artifacts Balance Patch
+- Added Ultimate Shouts - SSE
+- Added Ultimate Shouts 2.8 SE - Patches for Wyrmstooth
+- Added Ultimate Shouts 2.9 SE - Thunderchild Patch
+
+_Survival Overhaul_
+- Added SunHelm Survival and needs - Settings Loader
+
+_Immersion_
+- Removed Remember Lockpick Angle
+- Added SPID for Footprints - Player Footprints Fix - notification fix
+
+_Lighting Overhaul_
+- Removed Lux - Updated SMIM meshes
+
+_ENB Lights_
+- Removed Particle Lights for ENB - Nordic Ruins Candles Lux Patch
+
+_Community Presets_
+- Added Amalia The Possesed Nun (Project Skyrim) Goth Wood Elf Female Preset
+- Added Asenath The Vampire Goddess (Project Skyrim) Goth Redguard Female Preset
+- Added Azaelen The Demon Hunter (Project Skyrim) Goth Dark Elf Female Preset
+- Added Azar The FIre Elemental (Project Skyrim) Fire Dark Elf Female Preset
+- Added Bob The Lizard (Project Skyrim) Argonian Male Preset
+- Added Elizabeth Crusader of the Holy Light (Project Skyrim) Breton Female Preset
+- Added Estrella The Enchantress (Project Skyrim modlist) Goth High Elf Preset
+- Added Joanna The Lonely Vampire (CharGrinn) Goth Breton Female Preset
+- Added Julia The Unknown (Project Skyrim) High Elf Female Preset
+- Added Krishna Mephala's Whisper (Project Skyrim) Goth Daedra Worshipper Wood Elf Female Preset
+- Added Lerna The Hellish Warrior (Project Skyrim) Dark Elf Female Preset
+- Added Natalia The Emerald Shadow (Project Skyrim) Goth Breton Female Preset
+- Added Oblivia The Bound Weapon (Project Skyrim)Goth Glowing Tattoos Breton Female Preset
+- Added Ophelia The Beggar Necromancer (Project Skyrim) Imperial Female Preset
+- Added Salia The Lusty Argonian Maiden (Project Skyrim) Argonian Female Preset
+- Added Saria The Living Curse (Project Skyrim) Goth Necromancer Female Dark Elf Preset
+- Added Sharog The Battlemage (Project Skyrim) Goth Orc Female Preset
+- Added Tiara The Vengeful Spirit (Project Skyrim) Goth Dark Elf Female Preset
+- Added Zaburg Malacath's Chosen (Project Skyrim) Orc Male Preset
+
+</details>  
 
 ## 0.0.1.4
 <details>
