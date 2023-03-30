@@ -2,6 +2,65 @@
 
 ## Char Grinn
 
+## 0.0.1.5 a
+<details>
+
+_Fixes_
+
+- Added Dragonactorscript infinite loop fix (finally exists!)
+
+_Textures - Armor_
+
+- Added DCR - King Crusader Mega Pack
+- Added DCR King Crusader Female Armor and Weapons - 4K Textures
+
+_NPC Overhaul_
+
+- Removed Children of the North (may add back once I build a patch for the hair)
+
+_Followers_
+
+- Queen of the Damned - Deadlier Serana_SE
+
+_Body - Head_
+
+- Added SG Female Eyebrows for High Poly Head 
+  _To fix some of the community presets_
+
+- Updated Char-Grinn Custom Settings
+  _Removed custom keybindings for Immersive Horses & Survive the Night_
+
+_Combat Overhaul_
+
+- Added True Spear Combat - SSE - Weapons and Animations - DAR
+- Added True Spear Combat -SSE - Immersive Weapons
+- Added True Spear Combat SSE - Fix for skeleton XPMSE
+
+_Experience Overhaul_
+
+- Added Experience
+- Added Experience - MCM
+- Added Experience Compatibility Patches
+- Added Experience Quests Tweak
+- Added No Startup Quest XP - Patch for Sunhelm and more
+- Added Sunhelm - Experience Patch
+
+_Community Presets-
+
+- Added The Druid (RelentlessZen) Wood Elf Female Preset
+- Added The Breton (RelentlessZen) Half Elf Male Preset
+- Added Waylander (RelentlessZen) Imperial Male Preset
+- Added IFIRIT (RelentlessZen) Nord Male Preset
+
+_Outputs_
+
+- Added Synthesis_Output
+
+  - Synthesis02.esp (SynWeaponsKeywords, spellabsorbfix, npcenchantfix)
+  - Synthesis03.esp (CellEncounterLevelsInName, CellEditorIDFixer, enblightpatcher, Z-Floor-Patcher, GrassFPS) flagged as ESL)
+
+</details>
+
 ## 0.0.1.5
 <details>
 
