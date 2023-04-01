@@ -6,7 +6,7 @@
 
 ## INTRODUCTION
 
-Wabbajack Version: 0.0.1.4 (released 03/28/2023)
+Wabbajack Version: 0.0.1.5a (released 03/30/2023)
 
 - Temporary Support Home:  [Jolly Co-Operators Discord](https://discord.gg/jolly-coop) unofficial-modlists channel
 - Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc) 
