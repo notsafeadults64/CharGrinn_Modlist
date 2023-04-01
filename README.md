@@ -4,6 +4,16 @@
 
 ## Visceral, Grim, & Simplistic
 
+Feedback is encouraged.
+
+This modlist is designed to turn Skyrim into a dark, tense, and terrifying experience. The world of Tamriel is full of dangers and horrors, and this modlist highlights them all. 
+
+The world is transformed into a creepy, atmospheric landscape, with foggy forests, haunted ruins, and customized eerie lighting effects.  Utiizes RAID Weathers to provide ACTUAL cover that impacts Player/NPC visibility and detection!
+
+To enhance the tension and horror, the modlist includes several gameplay mods that make combat more visceral and dangerous.
+
+Built around Skyrim Upscaler, Open Animation Replacer, and customized version of RAID ENB for RAID Weathers.
+
 ## INTRODUCTION
 
 Wabbajack Version: 0.0.1.5a (released 03/30/2023)
