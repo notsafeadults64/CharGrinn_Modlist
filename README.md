@@ -274,7 +274,9 @@ If you're not a Gamepad user, make sure to disable GamePad++ before starting the
 
 I HATE the ENB, mod, or whatever!!!
 	
-No doubt that you will want to customize the Char Grinn modlist to fit your preferred playstyle.  Char Grinn was created with COMMUNITY in mind, where ALL feedback is encouraged (so long as it is constructive and not a rant!).  The following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.
+No doubt that you will want to customize the Char Grinn modlist to fit your preferred playstyle.  Char Grinn was created with COMMUNITY in mind, where ALL feedback is encouraged (so long as it is constructive and not a rant!).  
+	
+The following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.
 	
 If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
 
