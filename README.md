@@ -20,7 +20,7 @@ I have carefully curated this mod list based on my own experiences, research, & 
 Want to see my terrible captures to get an idea of how this modlist plays / looks?
 
 - My YouTube focused on this playlist:
-[NotSafe4Adults64](https://www.youtube.com/@notsafeforadults64)
+[NotSafeforAdults64](https://www.youtube.com/@notsafeforadults64)
 
 - Deep Voice's Review of the modlist!!!!
 [New Skyrim AE Modpack Char Grinn || A Gritty & Intense Experience](https://www.youtube.com/watch?v=PCawMwnISFA&t=752s)
