@@ -79,17 +79,6 @@ _Note: This profile uses the following for animations and bodyslides_
 
 </details>
 
-## OPTIONAL BUT RECOMMENDED
-
-<details>
-
-Char Grinn Modlist was built around the following mods which GREATLY improve overall performance and gameplay.  Playing Char Grinn without these mods may result in fluctating FPS and lack of animations playing.
-
-- [PureDark's Patreon](https://www.patreon.com/PureDark/) Skyrim Upscaler
-- [Ershin's Patreon](https://www.patreon.com/Ershin/)  Open Animation Replacer 
-
-</details>
-
 ##  INSTALLATION
 <details>
 ###  Installing Microsoft Visual C++ Redistributable Package
