@@ -301,7 +301,7 @@ The following mods impact overall leveling & timescales.  Feel free to adjust to
 - [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
 	- Adds 47 (+10) classes without making any changes to existing skill trees and as such provides maximal compatibility.
 - [Character Sheet](https://www.nexusmods.com/skyrimspecialedition/mods/56069)
-	- Display Player Information in a Custom Windows, Faction Ranks, Thane hood and Champion of a Daedric Prince or Princess as well as one in the Inventory that updates with equip/unequip of Gear.
+	- Display Player Information in a Custom Windows, Faction Ranks, Thane hood and Champion of a Daedric Prince or Princess as well as one in the Inventory that updates with equip/unequip of Gear.  U is the default keybinding.
 
 	
 	
