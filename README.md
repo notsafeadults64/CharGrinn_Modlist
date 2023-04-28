@@ -230,7 +230,7 @@ The following steps are REQUIRED if playing the modlist in its' current iteratio
 02. Select your Char Grinn profile (using *Char Grinn* for this example)
 03. Select *Run* in MO2 to start the game
 04. Once in Skyrim, select *New*
-	_Alternate Start is known to cause issues with the initial load of RaceMenu.  If you do NOT see the CBBE or HIMBO sliders, simply select your race and sex and name your character.  Once the inital messages finish, you can open the console and type 'showracemenu', hit ENTER and finish out your character._
+	- Note: Alternate Start is known to cause issues with the initial load of RaceMenu.  If you do NOT see the CBBE or HIMBO sliders, simply select your race and sex and name your character.  Once the inital messages finish, you can open the console and type 'showracemenu', hit ENTER and finish out your character.
 05. Create & Name your character in RaceMenu (loads automatically)
 06. Get some coffee & allow on-screen messages to completely disappear before touching your controls!
 	- Note: Game will 'Autosave' during this process'
