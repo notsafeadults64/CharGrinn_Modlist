@@ -16,7 +16,7 @@ Built around Skyrim Upscaler, Open Animation Replacer, and customized version of
 
 ## INTRODUCTION
 
-Wabbajack Version: 0.0.1.5a (released 03/30/2023)
+Wabbajack Version: 0.0.1.7 (released 04/28/2023)
 
 - Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc) 
 
@@ -43,31 +43,42 @@ _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performa
 
 The Char Grinn Mod List comes in two profiles -
 
-### Char Grinn
+### Char Grinn Base
 <details>
-Current ESM + ESP total: 241
+
+- Current ESM + ESP total: 248
+
+- Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
+
+- Combat Animations:  580+
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
-- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-1)
-
-- BodySlide_Output
-- Nemesis_Output
+- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-base-profile-1)
 
 </details>
 
-### Char Grinn OSA + OSTIM (PLANNED RELEASE)
+### Char Grinn MCO
 <details>
-Current ESM + ESP total: 254
+
+- Current ESM + ESP total: 251
+
+- Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
+
+- Combat Animations:  1520+
+
+Identical to the Base profile except that it utilizes the MCO (Modern Combat Overhaul) system and animations.
+
+- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-base-profile)
+
+</details>
+
+### Char Grinn OSA + OSTIM (0.0.2.0 PLANNED RELEASE)
+<details>
+
+- Current ESM + ESP total: 254
 	
 If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
-
-- [Load Order Library - Char Grinn Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-nsfw)
-
-_Note: This profile uses the following for animations and bodyslides_
-
-- [NSFW] BodySlide_Output - adds different presets
-- [NSFW] Nemesis_Output - adds skimpy clothing
 
 </details>
 
@@ -209,15 +220,6 @@ Asus ROG G15 (2021) Gaming Laptop
 Alternatively, you can follow this video guide: https://youtu.be/5xYulRgbvTw
 
 The following steps are REQUIRED if playing the modlist in its' current iteration.  Failure to execute the steps below *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
-
-_Note: Times provided below are based on my personal experience and should only be used as a reference and NOT the gospel :)_
-
- - 01m 45s: MO2 Launch to Skyrim Main Menu
- - 00m 20s: New to RaceMenu
- - 02m 00s: RaceMenu to Final Install Message
- - 02m 00s: MCM Recorder Profile: NSAF64_Base to complete
- - 00m 20s: Alternate Start Bed to Initial Location Load
- - 00m 20s: MCM Recorder Profile: NSAF64_Before You Begin
  
 </details>
 
@@ -228,6 +230,7 @@ _Note: Times provided below are based on my personal experience and should only 
 02. Select your Char Grinn profile (using *Char Grinn* for this example)
 03. Select *Run* in MO2 to start the game
 04. Once in Skyrim, select *New*
+    _Alternate Start is known to cause issues with the initial load of RaceMenu.  If you do NOT see the CBBE or HIMBO sliders, simply select your race and sex and name your character.  Once the inital messages finish, you can open the console and type 'showracemenu', hit ENTER and finish out your character._
 05. Create & Name your character in RaceMenu (loads automatically)
 06. Get some coffee & allow on-screen messages to completely disappear before touching your controls!
 	- Note: Game will 'Autosave' during this process'
@@ -241,19 +244,14 @@ _Note: Times provided below are based on my personal experience and should only 
 14. Go to the Merdia State and select your origin.
 15. Sleep in the bed (unless you selected the _Escape from this cell_ option).
 	- Note: Vanilla Start is *NOT* tested and should not be selected.
-16. Unpause screen once your location loads (you will switch to 1st person).
-17. Select difficulty level for *Moonlight Tales*
-18. On-Screen message will state *Sunhelm: Started*, find a nearby bed to finish this setup.  
-19. Select *OK* after you wake.
-20. Open the System Menu and select *Mod Configuration*
-21. Scroll down to *MCM Recorder*
-22. Select *NSAF64_Before You Begin* and follow pop-up message windows.
-23. Once all on-screen messages and pop-up windows are gone, press the BACKSPACE key for Immersive Equipment Display (IED) options.
-24. In Display Manager, select the NSAF64_Presets and click APPLY
-25. In Gear positioning, select the NSAF64_Presets and click APPLY.  Press ESC to close IED.
-26. SAVE YOUR GAME and EXIT Skyrim.
-27. Launch Char Grinn profile again through MO2
-28. Load your game and start your journey!!
+16. Unpause screen once your location loads (you *may* switch to 1st person).
+17. Allow on-screen messages to complete.
+18. Open the System Menu and select *Mod Configuration*
+19. Scroll down to *MCM Recorder*
+20. Select *NSAF64_Before You Begin* and follow pop-up message windows.
+21. Once all messages are gone, select your Class using the Class Selection Magic option.
+22. SAVE YOUR GAME!
+23. Start your journey!!
 
 </details>
 
@@ -264,24 +262,11 @@ _Note: Times provided below are based on my personal experience and should only 
 Please remember that this is an ALPHA build.  Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
 
 ============================================================================================
-	
-I CAN'T MOVE or KEYBOARD / MOUSE UNREPONSIVE!!!
 
-If you're not a Gamepad user, make sure to disable GamePad++ before starting the game.
-	
-============================================================================================
-
-I HATE the ENB, mod, or whatever!!!
-	
-No doubt that you will want to customize the Char Grinn modlist to fit your preferred playstyle.  Char Grinn was created with COMMUNITY in mind, where ALL feedback is encouraged (so long as it is constructive and not a rant!).  
-	
 The following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.
 	
 If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
 
-- [IMMERSIVE PATROLS SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) Random CTD
-- [ORDINARY WOMEN SE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) Random CTD
-- [NITHI NPC REPLACEMENTS](https://www.nexusmods.com/users/17024379) Naked and/or invisible NPCs
 - [MINIMAP](https://www.nexusmods.com/skyrimspecialedition/mods/49490) Repeatable CTD in a few dungeons (e.g. Ustengrav Depths)
 
 The following mod(s) are added for effect and should only be utilized for atmospheric screenshots.  However, I like to live dangerously and use it for most places :p
@@ -297,10 +282,6 @@ The following mod(s) are added for effect and should only be utilized for atmosp
 	
 These mods were added based on my preferences and playstyle.  You are more than welcome to disable these mods, just do so BEFORE starting your game!!
 
-- [GamePad Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/27007)
-	- I use a combiniation of GamePad + Keyboard, this mod allows you to assign keys to combo GamePad buttons.
-- [LamasTinyHud](https://www.nexusmods.com/skyrimspecialedition/mods/82545)
-	- Preferred over iEquip due to ease of use for me.  Again, personal preference!
 - [Craftable Shadow Torch SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/64580)
 	- Completely optional mod and can be disabled if you don't plan to use it.
 	
@@ -315,6 +296,13 @@ The following mods impact overall leveling & timescales.  Feel free to adjust to
 	- Adjusts how quickly you level up your character.  Char Grinn uses the 2nd slowest option.
 - [Dynamic Timescale SE](https://www.nexusmods.com/skyrimspecialedition/mods/18922)
 	- Adjusts the timescale based on combat, location, and other factors.
+- [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016)
+	- Adjusts the player and NPC body types in-game.  F10 is the default key binding.
+- [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
+	- Adds 47 (+10) classes without making any changes to existing skill trees and as such provides maximal compatibility.
+- [Character Sheet](https://www.nexusmods.com/skyrimspecialedition/mods/56069)
+	- Display Player Information in a Custom Windows, Faction Ranks, Thane hood and Champion of a Daedric Prince or Princess as well as one in the Inventory that updates with equip/unequip of Gear.
+
 	
 	
 </details>
