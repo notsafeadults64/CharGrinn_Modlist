@@ -1,5 +1,4 @@
 [
- [
   {
     "title": "CharGrinn - Base",
     "description": "Visceral, Grim, & Simplistic.",
@@ -42,10 +41,8 @@
     "dateCreated": "2023-03-18T04:15:15Z",
     "dateUpdated": "2023-04-28T10:42:15Z",
     "repositoryName": ""
-  }
- ],
- [	
-	 {
+  },
+  {
     "title": "CharGrinn - MCO",
     "description": "Visceral, Grim, & Simplistic.",
     
@@ -73,7 +70,7 @@
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_GH01.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/CharGrinn_MCO.wabbajack_e71151c6-efa2-4230-b6f3-536ed0d0795c",
-      "machineURL": "CharGrinn",
+      "machineURL": "CharGrinnMCO",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
@@ -89,5 +86,4 @@
     "dateUpdated": "2023-04-28T10:42:15Z",
     "repositoryName": ""
   }
-]
 ]
