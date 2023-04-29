@@ -1,6 +1,6 @@
 [
   {
-    "title": "CharGrinn",
+    "title": "CharGrinn - Base",
     "description": "Visceral, Grim, & Simplistic.",
     
     "author": "NotSafeForAdults64",
@@ -25,21 +25,64 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_GH01.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_2dd0a557-246a-46c8-b66c-6829857d6cee",
+      "download": "https://authored-files.wabbajack.org/CharGrinn_Base.wabbajack_48f371e0-4221-4786-8d34-9c26cdcfc36a",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "WiD2cjd1E8M=",
-      "Size": 630650421,
-      "NumberOfArchives": 1749,
-      "SizeOfArchives": 155273487429,
-      "NumberOfInstalledFiles": 281457,
-      "SizeOfInstalledFiles": 283138018292
+      "Hash": "DuzvUjWuNMg=",
+      "Size": 754548050,
+      "NumberOfArchives": 1842,
+      "SizeOfArchives": 155330298196,
+      "NumberOfInstalledFiles": 296622,
+      "SizeOfInstalledFiles": 283872264423
     },
-    "version": "0.0.1.6",
+    "version": "0.0.1.7",
     "dateCreated": "2023-03-18T04:15:15Z",
-    "dateUpdated": "2023-04-01T10:42:15Z",
+    "dateUpdated": "2023-04-28T10:42:15Z",
+    "repositoryName": ""
+  },  
+  {
+    "title": "CharGrinn - MCO",
+    "description": "Visceral, Grim, & Simplistic.",
+    
+    "author": "NotSafeForAdults64",
+    "maintainers": [
+      "github/notsafeforadults64"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Visceral",
+      "Grim",
+      "Apothecary",
+      "Vokrii",
+      "SCAR",
+      "Creation Club",
+      "LotD"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_GH01.png",
+      "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
+      "download": "",
+      "machineURL": "CharGrinn",
+      "discordURL": "https://discord.gg/XBQSxJeDAc"
+    },
+    "download_metadata": {
+      "Hash": "dojmMcAnAw4=",
+      "Size": 894158387,
+      "NumberOfArchives": 1842,
+      "SizeOfArchives": 158447778857,
+      "NumberOfInstalledFiles": 290602,
+      "SizeOfInstalledFiles": 284515532463
+    },
+    "version": "0.0.1.7",
+    "dateCreated": "2023-03-18T04:15:15Z",
+    "dateUpdated": "2023-04-28T10:42:15Z",
     "repositoryName": ""
   }
 ]
