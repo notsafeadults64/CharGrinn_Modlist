@@ -42,4 +42,50 @@
     "dateUpdated": "2023-04-28T10:42:15Z",
     "repositoryName": ""
   }
+],
+[ 
+  {
+    "title": "CharGrinn - MCO",
+    "description": "Visceral, Grim, & Simplistic.",
+    
+    "author": "NotSafeForAdults64",
+    "maintainers": [
+      "github/notsafeforadults64"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "MCO",
+      "Visceral",
+      "Grim",
+      "Apothecary",
+      "Vokrii",
+      "SCAR",
+      "Creation Club",
+      "LotD"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_GH01.png",
+      "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
+      "download": "",
+      "machineURL": "CharGrinn",
+      "discordURL": "https://discord.gg/XBQSxJeDAc"
+    },
+    "download_metadata": {
+      "Hash": "dojmMcAnAw4=",
+      "Size": 894158387,
+      "NumberOfArchives": 1842,
+      "SizeOfArchives": 158447778857,
+      "NumberOfInstalledFiles": 290602,
+      "SizeOfInstalledFiles": 284515532463
+    },
+    "version": "0.0.1.7",
+    "dateCreated": "2023-03-18T04:15:15Z",
+    "dateUpdated": "2023-04-28T10:42:15Z",
+    "repositoryName": ""
+  }
 ]
