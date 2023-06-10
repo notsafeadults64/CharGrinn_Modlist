@@ -4,6 +4,8 @@
 
 ## Visceral, Grim, & Simplistic
 
+Recommend the following document for the latest information: [WELCOME TO CHAR GRINN](https://docs.google.com/document/d/1-LiAw3sM9xkOc8WXCr_TRXFIe3UhSjEhN9QMWS48jMc/edit?usp=sharing)
+
 Feedback is encouraged.
 
 This modlist is designed to turn Skyrim into a dark, tense, and terrifying experience. The world of Tamriel is full of dangers and horrors, and this modlist highlights them all. 
@@ -16,7 +18,7 @@ Built around Skyrim Upscaler, Open Animation Replacer, and customized version of
 
 ## INTRODUCTION
 
-Wabbajack Version: 0.0.1.7 (released 04/28/2023)
+Wabbajack Version: 1.0.0.0 (released 06/10/2023)
 
 - Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc) 
 
@@ -43,29 +45,29 @@ _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performa
 
 The Char Grinn Mod List comes in two profiles -
 
-### Char Grinn Base
+### Char Grinn Base v1.0
 <details>
 
-- Current ESM + ESP total: 248
+- Current ESM + ESP total: 246
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
-- Combat Animations:  580+
+- Animations:  500+
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
-- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-base-profile-1)
+- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-base-profile-2)
 
 </details>
 
-### Char Grinn MCO
+### Char Grinn MCO (1.0 PLANNED RELEASE)
 <details>
 
 - Current ESM + ESP total: 251
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
-- Combat Animations:  1520+
+- Animations:  1520+
 
 Identical to the Base profile except that it utilizes the MCO (Modern Combat Overhaul) system and animations.
 
@@ -73,7 +75,7 @@ Identical to the Base profile except that it utilizes the MCO (Modern Combat Ove
 
 </details>
 
-### Char Grinn OSA + OSTIM (0.0.2.0 PLANNED RELEASE)
+### Char Grinn OSA + OSTIM (1.0 PLANNED RELEASE)
 <details>
 
 - Current ESM + ESP total: 254
@@ -217,44 +219,11 @@ Asus ROG G15 (2021) Gaming Laptop
 ##  STARTING A NEW GAME
 <details>
 
-Alternatively, you can follow this video guide: https://youtu.be/5xYulRgbvTw
+Follow this video guide: [https://youtu.be/5xYulRgbvTw](https://youtu.be/nuygwrGImGA)
 
-The following steps are REQUIRED if playing the modlist in its' current iteration.  Failure to execute the steps below *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
+The steps within the guide are REQUIRED if playing the modlist in its' current iteration.  Failure to execute *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
  
 </details>
-
- ##  FIRST TIME LAUNCH
-<details>
-
-01. Open Mod Organizer 2 (aka MO2)
-02. Select your Char Grinn profile (using *Char Grinn* for this example)
-03. Select *Run* in MO2 to start the game
-04. Once in Skyrim, select *New*
-	- Note: Alternate Start is known to cause issues with the initial load of RaceMenu.  If you do NOT see the CBBE or HIMBO sliders, simply select your race and sex and name your character.  Once the inital messages finish, you can open the console and type 'showracemenu', hit ENTER and finish out your character.
-05. Create & Name your character in RaceMenu (loads automatically)
-06. Get some coffee & allow on-screen messages to completely disappear before touching your controls!
-	- Note: Game will 'Autosave' during this process'
-07. Select *OK* to all pop-up message windows
-08. Open the System Menu and select *Mod Configuration*
-09. Scroll down to *MCM Recorder*
-10. Select *NSAF64_Base* and follow pop-up message windows
-11. Step away from the controls!
-12. Allow *NSAF64_Base* to complete and all on-screen messages to disappear
-13. Select *OK* to all pop-up message windows
-14. Go to the Merdia State and select your origin.
-15. Sleep in the bed (unless you selected the _Escape from this cell_ option).
-	- Note: Vanilla Start is *NOT* tested and should not be selected.
-16. Unpause screen once your location loads (you *may* switch to 1st person).
-17. Allow on-screen messages to complete.
-18. Open the System Menu and select *Mod Configuration*
-19. Scroll down to *MCM Recorder*
-20. Select *NSAF64_Before You Begin* and follow pop-up message windows.
-21. Once all messages are gone, select your Class using the Class Selection Magic option.
-22. SAVE YOUR GAME!
-23. Start your journey!!
-
-</details>
-
 
 ##  KNOWN ISSUES
 <details>
@@ -276,36 +245,5 @@ The following mod(s) are added for effect and should only be utilized for atmosp
 	- Known to crash in Bleak Falls Barrow & Fell Glow Keep
 	
 </details>
-
-##  MODS THAT CAN BE DISABLED
-<details>
-	
-These mods were added based on my preferences and playstyle.  You are more than welcome to disable these mods, just do so BEFORE starting your game!!
-
-- [Craftable Shadow Torch SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/64580)
-	- Completely optional mod and can be disabled if you don't plan to use it.
-	
-</details>
-
-## LEVELING & MORE
-<details>
-	
-The following mods impact overall leveling & timescales.  Feel free to adjust to your preferred setup through their respective MCM menus in the game -
-
-- [Leveling Freedom](https://www.nexusmods.com/skyrimspecialedition/mods/69589)
-	- Adjusts how quickly you level up your character.  Char Grinn uses the 2nd slowest option.
-- [Dynamic Timescale SE](https://www.nexusmods.com/skyrimspecialedition/mods/18922)
-	- Adjusts the timescale based on combat, location, and other factors.
-- [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016)
-	- Adjusts the player and NPC body types in-game.  F10 is the default key binding.
-- [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
-	- Adds 47 (+10) classes without making any changes to existing skill trees and as such provides maximal compatibility.
-- [Character Sheet](https://www.nexusmods.com/skyrimspecialedition/mods/56069)
-	- Display Player Information in a Custom Windows, Faction Ranks, Thane hood and Champion of a Daedric Prince or Princess as well as one in the Inventory that updates with equip/unequip of Gear.  U is the default keybinding.
-
-	
-	
-</details>
-
 	
  
