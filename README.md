@@ -18,7 +18,7 @@ Built around Skyrim Upscaler, Open Animation Replacer, and customized version of
 
 ## INTRODUCTION
 
-Wabbajack Version: 1.0.0.0 (released 06/10/2023)
+Wabbajack Version: 1.0.0.1 (released 06/18/2023)
 
 - Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc) 
 
@@ -45,10 +45,10 @@ _Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performa
 
 The Char Grinn Mod List comes in two profiles -
 
-### Char Grinn Base v1.0
+### Char Grinn Base v1.0.0.1
 <details>
 
-- Current ESM + ESP total: 246
+- Current ESM + ESP total: 240
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
