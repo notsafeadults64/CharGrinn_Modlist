@@ -58,8 +58,7 @@
       "Apothecary",
       "Vokrii",
       "SCAR",
-      "Creation Club",
-      "LotD"
+      "Creation Club"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -68,21 +67,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_GH02.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/MCO_CharGrinn.wabbajack_0eeed3ad-12cc-468f-bccc-e0a71c6918be",
+      "download": "https://authored-files.wabbajack.org/MCO_CharGrinn.wabbajack_f7a7aed7-0eda-434e-871f-55d2364bb029",
       "machineURL": "CharGrinnMCO",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "69ps4fxpUeE=",
-      "Size": 793717647,
-      "NumberOfArchives": 1875,
-      "SizeOfArchives": 153516812442,
-      "NumberOfInstalledFiles": 306458,
-      "SizeOfInstalledFiles": 280592230643
+      "Hash": "xcR10o2VzzY=",
+      "Size": 784033327,
+      "NumberOfArchives": 1817,
+      "SizeOfArchives": 149633911981,
+      "NumberOfInstalledFiles": 290524,
+      "SizeOfInstalledFiles": 265510643315
     },
-    "version": "0.0.1.7",
-    "dateCreated": "2023-03-18T04:15:15Z",
-    "dateUpdated": "2023-05-07T10:42:15Z",
+    "version": "1.0.0.1",
+    "dateCreated": "2023-06-18T07:18:15Z",
+    "dateUpdated": "2023-06-18T07:18:15Z",
     "repositoryName": ""
   }
 ]
