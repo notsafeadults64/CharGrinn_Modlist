@@ -24,17 +24,17 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_GH03.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BASE_CharGrinn.wabbajack_34070bb4-adba-4a9e-adc6-ab6628f40f16",
+      "download": "https://authored-files.wabbajack.org/BASE_CharGrinn.wabbajack_bf58b7d1-251b-435a-ba7a-b0b749fe8823",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "Z7dOdbREnbE=",
-      "Size": 783785893,
+      "Hash": "JjB1TFyFHo0=",
+      "Size": 783810315,
       "NumberOfArchives": 1798,
-      "SizeOfArchives": 149653703740,
-      "NumberOfInstalledFiles": 287245,
-      "SizeOfInstalledFiles": 265425840639
+      "SizeOfArchives": 149495163241,
+      "NumberOfInstalledFiles": 287373,
+      "SizeOfInstalledFiles": 265440204807
     },
     "version": "1.0.0.1",
     "dateCreated": "2023-06-18T01:35:15Z",
@@ -67,17 +67,17 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_GH04.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/MCO_CharGrinn.wabbajack_a825d117-f34e-4d7d-a072-d79a56ef024a",
+      "download": "https://authored-files.wabbajack.org/MCO_CharGrinn.wabbajack_e6817750-c64e-4dc3-b7c8-32101066963c",
       "machineURL": "CharGrinnMCO",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "lOEJXA6iZDA=",
-      "Size": 784033612,
+      "Hash": "vxvAdzirvAc=",
+      "Size": 784053163,
       "NumberOfArchives": 1817,
       "SizeOfArchives": 149633911981,
       "NumberOfInstalledFiles": 290524,
-      "SizeOfInstalledFiles": 265510643331
+      "SizeOfInstalledFiles": 265510702825
     },
     "version": "1.0.0.1",
     "dateCreated": "2023-06-18T07:18:15Z",
