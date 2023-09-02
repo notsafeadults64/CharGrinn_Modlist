@@ -4,8 +4,6 @@
 
 ## Visceral, Grim, & Simplistic
 
-Recommend the following document for the latest information: [WELCOME TO CHAR GRINN](https://docs.google.com/document/d/1-LiAw3sM9xkOc8WXCr_TRXFIe3UhSjEhN9QMWS48jMc/edit?usp=sharing)
-
 Feedback is encouraged.
 
 This modlist is designed to turn Skyrim into a dark, tense, and terrifying experience. The world of Tamriel is full of dangers and horrors, and this modlist highlights them all. 
@@ -14,15 +12,13 @@ The world is transformed into a creepy, atmospheric landscape, with foggy forest
 
 To enhance the tension and horror, the modlist includes several gameplay mods that make combat more visceral and dangerous.
 
-Built around Skyrim Upscaler, Open Animation Replacer, and customized version of RAID ENB for RAID Weathers.
-
 ## INTRODUCTION
 
-Wabbajack Version: 1.0.0.1 (released 06/18/2023)
+Wabbajack Version: 1.1.0.0 (released 09/01/2023)
 
-- Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc) 
+Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc) 
 
-Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.  Mine is just a little less adult currently.
+Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.
 
 If you're looking for a gaming experience that's gritty and intense, you've come to the right place. This mod list is designed to enhance the atmosphere and gameplay of Skyrim with overhauls for combat, magic, archery, and more.
 
@@ -39,16 +35,12 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 - Biggie_Boss' Review of the modlist!!!!
 [BRAND NEW | Char Grinn ALPHA | Skyrim Modlist Quicklook](https://www.youtube.com/watch?v=8ZwR236tq3c)
 
-_Note - modlist is a mix of 1k, 2k, & 4k texture packs to help with FPS performance.  If you choose to replace any landscape textures or worldspace additions you MUST run XLODGEN, TEXGEN, & DYNDOLOD or your LODS will not match and performance may be impacted negatively.  I have provided a tutorial and links within my Youtube video.  This ALSO applies to Grass replacement mods!!!  You MUST run Pre-Cache Grass generation or you will have performance and visuals issues._
+The Char Grinn Mod List comes in FOUR profiles -
 
-[NotSafe4dults64 - From xLOD to DynDOLOD and Everything in-between](https://youtu.be/BxHFQaiIVus)
-
-The Char Grinn Mod List comes in two profiles -
-
-### Char Grinn Base v1.0.0.1
+### Char Grinn Base v1.1.0.0
 <details>
 
-- Current ESM + ESP total: 240
+- Current ESM + ESP total: 244
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
@@ -60,10 +52,10 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn MCO v1.0.0.1
+### Char Grinn MCO v1.1.0.0
 <details>
 
-- Current ESM + ESP total: 244
+- Current ESM + ESP total: 246
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
@@ -75,12 +67,21 @@ Identical to the Base profile except that it utilizes the MCO (Modern Combat Ove
 
 </details>
 
-### Char Grinn OSA + OSTIM (1.0 PLANNED RELEASE)
+### Char Grinn BASE + OSTIM (1.1.0.0)
+<details>
+
+- Current ESM + ESP total: 252
+	
+If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
+
+</details>
+
+### Char Grinn MCO + OSTIM (1.1.0.0)
 <details>
 
 - Current ESM + ESP total: 254
 	
-If you're 18+ and looking for something even more intense, the Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
+If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
 </details>
 
@@ -183,35 +184,23 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 </details>
 
-##  WHAT TO EXPECT
+##  DEFAULT CONFIGURATION
 <details>
-In an effort to stabilize this modlist it was installed on two different builds.  While YMMV, feel free to use the following as a baseline prior to installing.
 
-### Note - FPS averages provided below are based on my personal experience and should only be used as a reference and NOT the gospel :)
+- QUALITY SETTINGS: Custom Medium (BethINI)
+- RESOLUTION: 1920 x 1080 (BethINI)
+- CONTROLS: Keyboard & Mouse
+- ENB PROFILE: Char Grinn NO HOPE
 
-Alienware (2019) Gaming Desktop
-- Ryzen 7 3800X 3.89 GHz
-- 32 GB RAM
-- 1 TB SSD
-- Radeon RX 5700 XT @ 8 GB
-	- 45+/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - off)
-	- 55+/- fps 1920 x 1080 (Skyrim Upscaler FSR2 - on)
-	- 25+/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - off)
-	- 40+/- fps 2560 x 1440 (Skyrim Upscaler FSR2 - on)
-	- 20+/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - off) w/ external monitor
-	- 30+/- fps 3440 x 1440 (Skyrim Upscaler FSR2 - on) w/ external monitor
-	
-Asus ROG G15 (2021) Gaming Laptop
-- Ryzen 9 5900HS 
-- 24 GB RAM
-- 1 TB SSD
-- GeForce RTX 3070 @ 8 GB
-	- 50+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - off)
-	- 60+/- fps 1920 x 1080 (Skyrim Upscaler DLSS - on)
-	- 35+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - off)
-	- 45+/- fps 2560 x 1440 (Skyrim Upscaler DLSS - on)
-	- 20+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - off) w/ external monitor
-	- 30+/- fps 3440 x 1440 (Skyrim Upscaler DLSS - on) w/ external monitor
+_Note – KB & Mouse / GamePad++ layouts are under #cg-support PINS._
+
+[Skyrim Priority Setup](https://www.youtube.com/watch?v=FKR0zaiIUGU)
+I DO recommend everyone do this if comfortable as it DOES make a difference! The required
+mod is already in the list, you just have to do the calculator and mod file update parts.
+If you don't want to, no worries, just disable the mod entirely.
+
+
+
 
 </details>
 
@@ -228,21 +217,33 @@ The steps within the guide are REQUIRED if playing the modlist in its' current i
 ##  KNOWN ISSUES
 <details>
 	
-Please remember that this is an ALPHA build.  Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
+Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
 
 ============================================================================================
 
-The following mods have caused random CTDs (Crash to Desktop) during my personal test playthrough.  This is NOT a negative review of these mods, in fact, I WANTED these in my modlist.  They just didn't play well with something I wanted more.
-	
-If you figure out the root cause of the CTD, please share!  My goal is to have a running list of any known mods to clash with this modlist.
+- DARK FORESTS OF SKYRIM
+Random Floating Trees
+Workaround – None at this time
 
-- [MINIMAP](https://www.nexusmods.com/skyrimspecialedition/mods/49490) Repeatable CTD in a few dungeons (e.g. Ustengrav Depths)
+- DYNDOLOD
+Trees Load-in
+Essentially, some tree models have a 'thicker' static image which makes it appear that the trees load as you get within a certain distance. I am attempting to identify and correct these in future updates. It is quite an undertaking.
+Workaround - None at this time
 
-The following mod(s) are added for effect and should only be utilized for atmospheric screenshots.  However, I like to live dangerously and use it for most places :p
-	
-- [Craftable Shadow Torch SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/64580)
-	- Crashes within certain dungeons due to a shadow error.
-	- Known to crash in Bleak Falls Barrow & Fell Glow Keep
+- DYNDOLOD
+Bright Waterfalls
+This one eludes me. Waterfalls have 3x different LODs that load as you get closer. This one
+pisses me off as I can't seem to find the root cause.
+Workaround - None at this time
+
+- VALHALLA COMBAT
+Temporary Invincibility Bug
+Valhalla Combat has its own execution triggers that are known to break. During combat you
+may trigger an execution combat but the enemy will still be alive and unable to be hit for several
+seconds. This is a known issue with the mod that I have yet to figure out a fix. Even having
+
+Valhalla Combat executions disabled, this will randomly occur.
+Workaround - None at this time
 	
 </details>
 	
