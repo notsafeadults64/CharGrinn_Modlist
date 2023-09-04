@@ -40,11 +40,11 @@ The Char Grinn Mod List comes in FOUR profiles -
 ### Char Grinn Base v1.1.0.0
 <details>
 
-- Current ESM + ESP total: 244
+- Current ESM + ESP total: 242
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
-- Animations:  700+
+- Animations:  760+
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
@@ -70,7 +70,9 @@ Identical to the Base profile except that it utilizes the MCO (Modern Combat Ove
 ### Char Grinn BASE + OSTIM (1.1.0.0)
 <details>
 
-- Current ESM + ESP total: 252
+- Current ESM + ESP total: 248
+
+- Animations:  9200+
 	
 If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
@@ -79,7 +81,9 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 ### Char Grinn MCO + OSTIM (1.1.0.0)
 <details>
 
-- Current ESM + ESP total: 254
+- Current ESM + ESP total: 252
+
+- Animations:  9800+
 	
 If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
@@ -208,9 +212,38 @@ If you don't want to, no worries, just disable the mod entirely.
 ##  STARTING A NEW GAME
 <details>
 
-Follow this video guide: [https://youtu.be/5xYulRgbvTw](https://youtu.be/nuygwrGImGA)
+Video Guide Coming Soon!
 
 The steps within the guide are REQUIRED if playing the modlist in its' current iteration.  Failure to execute *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
+
+BASE & MCO PROFILES
+
+1. Load into new game
+2. Sit at the Helgen scene until ALL messages finish
+3. Go into Skyrim Unbound MCM menu, configure your preferred start settings (armor, weapons, etc.), close menu
+4. Press Enter and choose Current Settings.  Note - Char Grinn option is for a Barbarian build and will undo any settings you made.
+5. Next screen, create your character
+6. Choose "Stay Here" when finished
+7. Run MCM Recorder (1st recording)
+8. Save when finished
+9. Hit enter, go back into Racemenu (there is a bug where your face will reset if you don't do this), and then just exit it again
+10. Hit enter, continue
+11. Play
+
+OSTIM PROFILES
+
+1. Load into new game
+2. Sit at the Helgen scene until ALL messages finish
+3. Go into Skyrim Unbound MCM menu, configure your preferred start settings (armor, weapons, etc.), close menu
+4. Press Enter and choose Current Settings.  Note - Char Grinn option is for a Barbarian build and will undo any settings you made.
+5. Next screen, create your character
+6. Choose "Stay Here" when finished
+7. Run MCM Recorder (1st recording)
+8. Run MCM Recorder (2nd recording)
+9. Save when finished
+10. Hit enter, go back into Racemenu (there is a bug where your face will reset if you don't do this), and then just exit it again
+11. Hit enter, continue
+12. Play
  
 </details>
 
