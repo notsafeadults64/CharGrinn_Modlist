@@ -48,8 +48,6 @@ The Char Grinn Mod List comes in FOUR profiles -
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
-- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-base-profile-2)
-
 </details>
 
 ### Char Grinn MCO v1.1.0.0
@@ -62,8 +60,6 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 - Animations:  1700+
 
 Identical to the Base profile except that it utilizes the MCO (Modern Combat Overhaul) system and animations.
-
-- [Load Order Library - Char Grinn NSFW Modlist and Load Order](https://loadorderlibrary.com/lists/char-grinn-base-profile)
 
 </details>
 
