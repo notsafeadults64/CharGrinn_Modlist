@@ -15,6 +15,7 @@
       "Apothecary",
       "Vokrii",
       "SCAR",
+      "Valhalla",
       "Creation Club"
     ],
     "nsfw": false,
@@ -58,6 +59,7 @@
       "Apothecary",
       "Vokrii",
       "SCAR",
+      "Valhalla",
       "Creation Club"
     ],
     "nsfw": false,
@@ -86,7 +88,7 @@
   },
   {
     "title": "CharGrinn - BASE + OSTIM",
-    "description": "Visceral, Grim, & Simplistic.  Combat Style similar to Elden Ring & Dark Souls (Slow & Methodical)",
+    "description": "Visceral, Grim, & Simplistic.  Combat Style similar to God of War & Horizon Zero Dawn (Fast & Frantic) + Adult Situations ;)",
     
     "author": "NotSafeForAdults64",
     "maintainers": [
@@ -95,14 +97,14 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "MCO",
       "Visceral",
       "Grim",
       "Apothecary",
       "Vokrii",
       "SCAR",
+      "Valhalla",
       "Creation Club",
-	  "OSTIM"		
+      "OSTIM"		
     ],
     "nsfw": true,
     "utility_list": false,
@@ -130,7 +132,7 @@
   },
   {
     "title": "CharGrinn - MCO + OSTIM",
-    "description": "Visceral, Grim, & Simplistic.  Combat Style similar to Elden Ring & Dark Souls (Slow & Methodical)",
+    "description": "Visceral, Grim, & Simplistic.  Combat Style similar to Elden Ring & Dark Souls (Slow & Methodical) + Adult Situations ;)",
     
     "author": "NotSafeForAdults64",
     "maintainers": [
@@ -145,8 +147,9 @@
       "Apothecary",
       "Vokrii",
       "SCAR",
+      "Valhalla",
       "Creation Club",
-	  "OSTIM"
+      "OSTIM"
     ],
     "nsfw": true,
     "utility_list": false,
