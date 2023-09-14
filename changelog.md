@@ -31,7 +31,10 @@ __Elden Parry & Counter__
 *Unable to Bash*
 
 __Myrwatch__  
-*Floating, moving items*
+*Floating, moving items*  
+
+__Honeyside Thane of Riften__  
+*Missing NobleShelf05 in multiple locations*  
 
 __ENB Inventory Light Fix__  
 *Large gemstones in inventory*
@@ -71,6 +74,7 @@ __ENB Inventory Light Fix__
 **-Gallows of Skyrim**  
 **-CBBE SMP**  
 **-Autoscaler Disabler**  
+**-Honeyside Thane of Riften**  
 
 #### UPDATES
 **Enabled XPMSE.esp**  
