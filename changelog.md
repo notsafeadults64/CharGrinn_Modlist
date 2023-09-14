@@ -36,8 +36,8 @@ __Myrwatch__
 __Honeyside Thane of Riften__  
 *Missing NobleShelf05 in multiple locations*  
 
-__SOS Genital Slider__
-*Added functionality back to RaceMenu*
+__SOS Genital Slider__  
+*Added functionality back to RaceMenu*  
 
 __ENB Inventory Light Fix__  
 *Large gemstones in inventory*
