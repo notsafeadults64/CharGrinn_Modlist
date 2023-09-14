@@ -1,6 +1,6 @@
 # CHAR GRINN BINDINGS
 
-## 1.1.0.2 - KEYBOARD
+## 1.1.0.2 - KEYBOARD ONLY
 <details>  
 
 -__H__ = *Animation Interruption*  
@@ -17,7 +17,7 @@
 *__Examples__:  Survive the Night, Immersive Horses, Follower Framework, and more.*  
 </details>
 
-## 1.1.0.2 - GAMEPAD++
+## 1.1.0.2 - GAMEPAD++ & KEYBOARD
 <details>  
 
 -__RS__ = *Center Camera*  
@@ -37,6 +37,15 @@
 -__DPAD LEFT__ = *Cycle Favorites 4 - 8*  
 -__DPAD DOWN__ = **  
 -__HOLD DPAD DOWN__ = **  
+
+-__H__ = *Animation Interruption*  
+-__J__ = *Eat / Drink*  
+-__U__ = *Character Sheet*  
+-__[__ = *Dual Block*  
+-__\\__ = *Warming Hands*  
+-__Shift + O__ = *Open Animation Replacer menu*  
+-__Backspace__ = *Immersive Equipment Displays menu*  
+-__Shift + Enter__ = *ENB Menu*  
 
 *__Note__ - this mod is optional and is disabled by default (by request).  You can enable or download, place at the bottom of your load order.*
 </details>
