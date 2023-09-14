@@ -1,4 +1,5 @@
-# CHAR GRINN UPDATES  
+# CHAR GRINN UPDATES
+
 ## 1.1.0.2 - PATCH RESOLUTIONS
 <details>
 
@@ -36,7 +37,8 @@ __ENB Inventory Light Fix__
 *Large gemstones in inventory*
 </details>
 
-## REMOVALS / CHANGES
+## 1.1.0.2 - REMOVALS / CHANGES
+
 ### ALL PROFILES
 <details>
 
