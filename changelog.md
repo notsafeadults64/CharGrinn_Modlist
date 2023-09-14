@@ -57,7 +57,6 @@ __ENB Inventory Light Fix__
 **+[NINI] Defied**  
 **+[NINI] Karlstein**  
 **+[NINI] Red Nose**  
-**+Racemenu Schlong Slider**  
 
 #### REMOVALS
 **-Realistic Grass Field**  
@@ -74,6 +73,7 @@ __ENB Inventory Light Fix__
 **-Autoscaler Disabler**  
 
 #### UPDATES
+**Enabled XPMSE.esp**  
 **Updated Gore v1.524**  
 **Updated Particle Patch for ENB v1.26**  
 **Updated Katana: Journey in the Shadows v2.0.1**  
