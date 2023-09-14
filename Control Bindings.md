@@ -17,7 +17,7 @@
 *__Examples__:  Survive the Night, Immersive Horses, Follower Framework, and more.*  
 </details>
 
-## 1.1.0.2 - GAMEPAD
+## 1.1.0.2 - GAMEPAD++
 <details>  
 
 -__RS__ = *Center Camera*  
