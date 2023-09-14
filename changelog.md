@@ -1,6 +1,8 @@
-# CHAR GRINN
-## 1.1.0.2
-## PATCH RESOLUTIONS
+# Char Grinn (Base Profile)
+
+## Char Grinn
+
+## 1.1.0.2 - PATCH RESOLUTIONS
 <details>
 
 __CC Camping Supplies__  
@@ -37,6 +39,7 @@ __ENB Inventory Light Fix__
 *Large gemstones in inventory*
 </details>
 
+## REMOVALS / CHANGES
 ### ALL PROFILES
 <details>
 
