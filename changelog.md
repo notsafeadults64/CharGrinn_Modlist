@@ -70,6 +70,8 @@ __ENB Inventory Light Fix__
 **-Steady Block: Block Animation Fix**  
 **-Skyrim's Dead**  
 **-Gallows of Skyrim**  
+**-CBBE SMP**  
+**-Autoscaler Disabler**  
 
 #### UPDATES
 **Updated Gore v1.524**  
