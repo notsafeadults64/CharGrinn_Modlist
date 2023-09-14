@@ -31,8 +31,8 @@
 -__RB + START__ = *Quick Load*  
 -__RB + RS__ = *Shouts / Commands*  
 -__B + RS__ = *Favorites Menu*  
--__DPAD Up__ = *Use Torch*
--__2x DPAD Up__ = *Drop Lit Torch*
+-__DPAD Up__ = *Use Torch*  
+-__2x DPAD Up__ = *Drop Lit Torch*  
 -__DPAD RIGHT__ = *Cycle Favorites 1 - 3*  
 -__DPAD LEFT__ = *Cycle Favorites 4 - 8*  
 -__DPAD DOWN__ = **  
