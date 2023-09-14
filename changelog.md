@@ -74,6 +74,7 @@ __ENB Inventory Light Fix__
 #### UPDATES
 **Updated Gore v1.524**  
 **Updated Particle Patch for ENB v1.26**  
+**Updated Immersive Displays: Quiver & Bow placement**  
 **Updated Char Grinn Bodyslide Output**  
 **Updated Char Grinn DynDOLOD Output**  **Updated Char Grinn Grass Output**  
 **Updated Char Grinn Grass Cache Output**  
