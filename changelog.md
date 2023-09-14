@@ -1,7 +1,4 @@
-# Char Grinn (Base Profile)
-
-## Char Grinn
-
+# CHAR GRINN UPDATES  
 ## 1.1.0.2 - PATCH RESOLUTIONS
 <details>
 
