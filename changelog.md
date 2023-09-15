@@ -48,7 +48,9 @@ __ENB Inventory Light Fix__
 ### ALL PROFILES
 <details>
 
-#### ADDITIONS
+--- 
+#### ADDITIONS  
+---  
 **+All Dead Trees**  
 **+Tamrielic Grass for ENB Compliex Grass** 
 **+Universal Arrow Tracer**  
@@ -66,7 +68,9 @@ __ENB Inventory Light Fix__
 **+The Wilds by HRT_WRX**
 *Custom track for Char Grinn*
 
-#### REMOVALS
+--- 
+#### REMOVALS  
+---  
 **-Realistic Grass Field**  
 **-Dark Forests of Skyrim**  
 **-Dark Forests of Skyrim: Solstheim Apocalypse**  
@@ -80,9 +84,11 @@ __ENB Inventory Light Fix__
 **-CBBE SMP**  
 **-Autoscaler Disabler**  
 **-Honeyside Thane of Riften**  
-**-Vivid Landscapes Whiterun Parallax
+**-Vivid Landscapes Whiterun Parallax  
 
-#### UPDATES
+---  
+#### UPDATES  
+---  
 **Enabled XPMSE.esp**  
 **New Sunhelm Notifications Preset**  
 **Updated Gore v1.524**  
@@ -101,14 +107,18 @@ __ENB Inventory Light Fix__
 ### MCO PROFILES
 <details>
 
-#### REMOVALS
+--- 
+#### REMOVALS  
+---  
 **-Timed Block - Hellblade**
 </details>
 
 ### OSTIM PROFILES
 <details>
 
-#### ADDITIONS
+--- 
+#### ADDITIONS  
+---  
 **+Bikini Mage Robes Replacer**  
 **+[Christine] High Priestess Bikini**  
 **+Resqueeze: TAWOBA Blades**    
