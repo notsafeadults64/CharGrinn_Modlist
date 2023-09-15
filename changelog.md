@@ -65,7 +65,7 @@ __ENB Inventory Light Fix__
 **+[NINI] Defied**  
 **+[NINI] Karlstein**  
 **+[NINI] Red Nose**  
-**+The Wilds by HRT_WRX**
+**+The Wilds by HRT_WRX**  
 *Custom track for Char Grinn*
 
 --- 
@@ -84,7 +84,8 @@ __ENB Inventory Light Fix__
 **-CBBE SMP**  
 **-Autoscaler Disabler**  
 **-Honeyside Thane of Riften**  
-**-Vivid Landscapes Whiterun Parallax  
+**-Vivid Landscapes Whiterun Parallax**  
+**-Know Your Enemy: Traits and Resistances**
 
 ---  
 #### UPDATES  
