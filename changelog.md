@@ -13,10 +13,10 @@ __Ancano__
 *Missing robes*
 
 __Companion Hall Wall__  
-*Wrong texture*
+*Wrong texture; removed*
 
 __CG-TorchLevel-Patch__  
-*Adjusted brightness, color, & radius*
+*Adjusted brightness, color, flicker, & radius*
 
 __Dark Forests of Skyrim__  
 *Disappearing trees, performance*
@@ -62,7 +62,7 @@ __ENB Inventory Light Fix__
 **+[NINI] Cristal See-through**  
 **+[NINI] Defied**  
 **+[NINI] Karlstein**  
-**+[NINI] Red Nose** 
+**+[NINI] Red Nose**  
 **+The Wilds by HRT_WRX**
 *Custom track for Char Grinn*
 
@@ -80,9 +80,11 @@ __ENB Inventory Light Fix__
 **-CBBE SMP**  
 **-Autoscaler Disabler**  
 **-Honeyside Thane of Riften**  
+**-Vivid Landscapes Whiterun Parallax
 
 #### UPDATES
 **Enabled XPMSE.esp**  
+**New Sunhelm Notifications Preset**  
 **Updated Gore v1.524**  
 **Updated Particle Patch for ENB v1.26**  
 **Updated Katana: Journey in the Shadows v2.0.1**  
