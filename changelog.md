@@ -89,19 +89,21 @@ __ENB Inventory Light Fix__
 ---  
 #### UPDATES  
 ---  
-**Enabled XPMSE.esp**  
-**New Sunhelm Notifications Preset**  
-**Updated Gore v1.524**  
-**Updated Particle Patch for ENB v1.26**  
-**Updated Katana: Journey in the Shadows v2.0.1**  
-**Updated Immersive Displays: Quiver & Bow placement**  
-**Updated Char Grinn Bodyslide Output**  
-**Updated Char Grinn DynDOLOD Output**  **Updated Char Grinn Grass Output**  
-**Updated Char Grinn Grass Cache Output**  
-**Updated Char Grinn Texgen Output**  
-**Updated Char Grinn xLOD Output**  
-**Updated ENB v0.494**  
-**Updated NO HOPE ENB**  
+**>Enabled XPMSE.esp**  
+**>New Sunhelm Notifications Preset**  
+**>Updated Gore v1.524**  
+**>Updated Particle Patch for ENB v1.26**  
+**>Updated Katana: Journey in the Shadows v2.0.1**  
+**>Updated Immersive Equipment Displays v1.73 (IED)**  
+**>Updated IED: NSFA64v2 Preset**  
+*Built from scratch; hides accessories when nude / underwear*  
+**>Updated Char Grinn Bodyslide Output**  
+**>Updated Char Grinn DynDOLOD Output**  **Updated Char Grinn Grass Output**  
+**>Updated Char Grinn Grass Cache Output**  
+**>Updated Char Grinn Texgen Output**  
+**>Updated Char Grinn xLOD Output**  
+**>Updated ENB v0.494**  
+**>Updated NO HOPE ENB**  
 </details>
 
 ### MCO PROFILES
