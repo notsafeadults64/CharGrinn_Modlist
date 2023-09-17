@@ -10,6 +10,7 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
+      "AE",
       "Visceral",
       "Grim",
       "Apothecary",
@@ -25,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_BASE.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BASE.CharGrinn.wabbajack_6a71440d-cb4d-4aac-beec-0e37017f3881",
+      "download": "https://authored-files.wabbajack.org/BASE.CharGrinn.wabbajack_56570d01-c59a-4309-a01a-10cbe5e84678",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "1PcjpRXwX/s=",
-      "Size": 838906653,
-      "NumberOfArchives": 1885,
-      "SizeOfArchives": 152059246387,
-      "NumberOfInstalledFiles": 297453,
-      "SizeOfInstalledFiles": 272581050400
+      "Hash": "35gQstXUyE4=",
+      "Size": 889599628,
+      "NumberOfArchives": 1893,
+      "SizeOfArchives": 157834025942,
+      "NumberOfInstalledFiles": 303530,
+      "SizeOfInstalledFiles": 281037308622
     },
     "version": "1.1.0.2",
-    "dateCreated": "2023-09-13T03:22:15Z",
-    "dateUpdated": "2023-09-13T03:22:15Z",
+    "dateCreated": "2023-09-17T05:02:15Z",
+    "dateUpdated": "2023-09-17T05:02:15Z",
     "repositoryName": ""
   },
   {
@@ -53,6 +54,7 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
+      "AE",
       "MCO",
       "Visceral",
       "Grim",
@@ -97,6 +99,7 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
+      "AE",
       "Visceral",
       "Grim",
       "Apothecary",
@@ -141,6 +144,7 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
+      "AE",
       "MCO",
       "Visceral",
       "Grim",
