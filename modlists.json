@@ -67,25 +67,25 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_MCO.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/MCO.CharGrinn.wabbajack_52cb94b2-4cbf-443c-a749-31ceb27b4b67",
+      "download": "https://authored-files.wabbajack.org/MCO.CharGrinn.wabbajack_20874088-ea0d-4153-8d62-65f71e93da90",
       "machineURL": "CharGrinnMCO",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "h4WsDr8BLmQ=",
-      "Size": 889687340,
-      "NumberOfArchives": 1893,
-      "SizeOfArchives": 157834025942,
-      "NumberOfInstalledFiles": 303530,
-      "SizeOfInstalledFiles": 281037408507
+      "Hash": "oKeZku8afWQ=",
+      "Size": 835623034,
+      "NumberOfArchives": 1897,
+      "SizeOfArchives": 156616750073,
+      "NumberOfInstalledFiles": 307473,
+      "SizeOfInstalledFiles": 281347535204
     },
     "version": "1.1.0.2",
-    "dateCreated": "2023-09-17T06:39:15Z",
-    "dateUpdated": "2023-09-17T06:39:15Z",
+    "dateCreated": "2023-09-20T11:42:15Z",
+    "dateUpdated": "2023-09-20T11:42:15Z",
     "repositoryName": ""
   },
   {
