@@ -30,7 +30,7 @@
 -__RB + SELECT__ = *Quick Save*  
 -__RB + START__ = *Quick Load*  
 -__RB + RS__ = *Shouts / Commands*  
--__B + RS__ = *Favorites Menu*  
+-__B + LS__ = *Favorites Menu*  
 -__DPAD Up__ = *Use Torch*  
 -__2x DPAD Up__ = *Drop Lit Torch*  
 -__DPAD RIGHT__ = *Cycle Favorites 1 - 3*  
