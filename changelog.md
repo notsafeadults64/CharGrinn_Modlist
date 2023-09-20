@@ -94,6 +94,7 @@ __ENB Inventory Light Fix__
 **>New Sunhelm Notifications Preset**  
 **>Updated Gore v1.524**  
 **>Updated Particle Patch for ENB v1.26**  
+**>Updated Dynamic Key Activation v1.02**  
 **>Updated Katana: Journey in the Shadows v2.0.1**  
 **>Updated Immersive Equipment Displays v1.73 (IED)**  
 **>Updated IED: NSFA64v2 Preset**  
