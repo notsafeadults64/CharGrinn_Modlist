@@ -3,6 +3,9 @@
 ## 1.1.0.3 - PATCH RESOLUTIONS
 <details>
 
+__Misplaced Fireplace__  
+*Removed misplaced firewplace in Riverwood Trader*  
+
 __Male Hair & Beards__  
 *Rebuilt Bodyslide to apply proper hair & beard options for male NPCs*  
 
