@@ -37,10 +37,10 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 
 The Char Grinn Mod List comes in FOUR profiles -
 
-### Char Grinn Base v1.1.0.0
+### Char Grinn Base v1.1.0.2
 <details>
 
-- Current ESM + ESP total: 242
+- Current ESM + ESP total: 238
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
@@ -50,10 +50,10 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn MCO v1.1.0.0
+### Char Grinn MCO v1.1.0.2
 <details>
 
-- Current ESM + ESP total: 246
+- Current ESM + ESP total: 242
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
@@ -208,7 +208,7 @@ If you don't want to, no worries, just disable the mod entirely.
 ##  STARTING A NEW GAME
 <details>
 
-Video Guide Coming Soon!
+[VIDEO GUIDE](https://youtu.be/p3EYn9s3vEc)
 
 The steps within the guide are REQUIRED if playing the modlist in its' current iteration.  Failure to execute *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
 
