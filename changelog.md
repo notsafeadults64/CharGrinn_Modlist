@@ -1,5 +1,71 @@
 # CHAR GRINN UPDATES
 
+## 1.1.0.3 - PATCH RESOLUTIONS
+<details>
+
+__Male Hair & Beards__  
+*Rebuilt Bodyslide to apply proper hair & beard options for male NPCs*  
+
+__Large Gemstones in Inventory__  
+*Patches & fixes didn't work for all gems, removed ENB light mods until fix is built & applied*  
+
+</details>
+
+## 1.1.0.3 - REMOVALS / CHANGES
+
+### ALL PROFILES
+<details>
+
+--- 
+#### ADDITIONS  
+---  
+**+SoS Uncloaked**  
+
+--- 
+#### REMOVALS  
+---  
+**-ENB Particle Lights for Gemstones**  
+**-ENB Particle Lights for ENB SE - Paragon Gems**  
+**-ENB Light Inventory Fix (ELIF)**  
+**-ENBLights Plus ELIF Compatibility**  
+**-Giant gem on the menu fix**  
+
+---  
+#### UPDATES  
+---  
+**>Updated Unofficial Skyrim Special Edition Patch v4.2.9alpha**  
+**>Updated Unofficial Skyrim Creation Club Content Patch v7.7**  
+**>Updated Dynamic Activation Key v1.02**  
+**>Updated Conditional Expressions v1.27**  
+**>Updated Conditional Expressions for NPCs v1.28**  
+**>Updated Caliente's Beautiful Bodies Enhancer CBBE v.2.0.1**  
+**>Updated DynDOLOD 3.00 Alpha-148**  
+**>Updated DynDOLOD Resource SE 3.00 vAlpha-45**  
+**>Updated Char Grinn BodySlide Output**  
+**>Updated Char Grinn DynDOLOD Output**  
+**>Updated Char Grinn Main Menu Profile Wallpapers**  
+
+</details>
+
+### MCO PROFILES
+<details>
+
+--- 
+#### IN PROGRESS
+---  
+
+</details>
+
+### OSTIM PROFILES
+<details>
+
+--- 
+#### IN PROGRESS
+---  
+
+</details>
+
+
 ## 1.1.0.2 - PATCH RESOLUTIONS
 <details>
 
