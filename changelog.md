@@ -27,6 +27,9 @@ __Large Gemstones in Inventory__
 --- 
 #### REMOVALS  
 ---  
+**-Dragonbone Ebonsteel Armor SE (mod no longer listed)**  
+**-DragonLord Armor**  
+**-Valkrie Armor**  
 **-ENB Particle Lights for Gemstones**  
 **-ENB Particle Lights for ENB SE - Paragon Gems**  
 **-ENB Light Inventory Fix (ELIF)**  
@@ -41,6 +44,7 @@ __Large Gemstones in Inventory__
 **>Updated Dynamic Activation Key v1.02**  
 **>Updated Conditional Expressions v1.27**  
 **>Updated Conditional Expressions for NPCs v1.28**  
+**>Updated Navigator - Navmesh Fixes v1.5.2**    
 **>Updated Caliente's Beautiful Bodies Enhancer CBBE v.2.0.1**  
 **>Updated DynDOLOD 3.00 Alpha-148**  
 **>Updated DynDOLOD Resource SE 3.00 vAlpha-45**  
