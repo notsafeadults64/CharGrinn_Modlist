@@ -67,8 +67,28 @@ __Large Gemstones in Inventory__
 <details>
 
 --- 
-#### IN PROGRESS
+#### ADDITIONS  
 ---  
+**+OStim Standalone - Advanced Adult Animation Framework**  
+**+OSmp - Automatic SMP physics toggle for OStim**  
+**+Amormous Adventures for OStim**  
+**+Amormous Adventures for OStim Standalone - Open Animations Patch and Fixes**  
+**+oWintersun NG**  
+**+NL_MCM - A Modular MCM Framework** 
+**+OAhegao**  
+**+HALOS Human HDT Tongue**  
+**+HALOS HDT Tongues for OStim Standalone**  
+**+OCum Ascended - Cum and Orgasm Mechanics for OStim**  
+**+OStim NPCs - NPC Sex Lives Improved**  
+**+OStim NPCs - NPC Sex Lives Improved - Settings Loader**  
+**+Conjure Companion OStim NG**  
+**+Morning Sex**  
+**+OVamp -the other way to feed**  
+
+--- 
+#### REMOVALS  
+---  
+**-**  
 
 </details>
 
