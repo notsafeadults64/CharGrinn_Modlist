@@ -1,7 +1,9 @@
 # CHAR GRINN UPDATES
+## v1.1.0.3
+<details>  
 
-## 1.1.0.3 - PATCH RESOLUTIONS
-<details>
+### PATCH RESOLUTIONS
+  <details>
 
 __Misplaced Fireplace__  
 *Removed misplaced firewplace in Riverwood Trader*  
@@ -12,20 +14,20 @@ __Male Hair & Beards__
 __Large Gemstones in Inventory__  
 *Patches & fixes didn't work for all gems, removed ENB light mods until fix is built & applied*  
 
-</details>
+  </details>
 
-## 1.1.0.3 - REMOVALS / CHANGES
+### REMOVALS / CHANGES
 
-### ALL PROFILES
-<details>
+#### ALL PROFILES
+  <details>
 
 --- 
-#### ADDITIONS  
+##### ADDITIONS  
 ---  
 **+SoS Uncloaked**  
 
 --- 
-#### REMOVALS  
+##### REMOVALS  
 ---  
 **-Dragonbone Ebonsteel Armor SE (mod no longer listed)**  
 **-DragonLord Armor**  
@@ -39,7 +41,7 @@ __Large Gemstones in Inventory__
 **-Giant gem on the menu fix**  
 
 ---  
-#### UPDATES  
+##### UPDATES  
 ---  
 **>Updated Unofficial Skyrim Special Edition Patch v4.2.9alpha**  
 **>Updated Unofficial Skyrim Creation Club Content Patch v7.7**  
@@ -54,26 +56,26 @@ __Large Gemstones in Inventory__
 **>Updated Char Grinn DynDOLOD Output**  
 **>Updated Char Grinn Main Menu Profile Wallpapers**  
 
-</details>
+  </details>
 
 ### MCO PROFILES  
-<details>
+  <details>
 
 ---  
-#### REMOVALS
+##### REMOVALS
 ---   
 **-Animations - Elden Rim Moveset (SCAR)**  
 **-Animations - Elden Rim Moveset (SCAR)**  
 **-Animations - Underwater Combat**  
  
 
-</details>
+  </details>
 
 ### OSTIM PROFILES
-<details>
+  <details>
 
 --- 
-#### ADDITIONS  
+##### ADDITIONS  
 ---  
 **+OStim Standalone - Advanced Adult Animation Framework**  
 **+OSmp - Automatic SMP physics toggle for OStim**  
@@ -119,18 +121,19 @@ __Large Gemstones in Inventory__
 **+Billy Lesbian 3P animation pack for OStim NG**  
 
 --- 
-#### REMOVALS  
+##### REMOVALS  
 ---  
 **-ALL OSTIM NG mods & animations**  
 
+  </details>
 </details>
 
 ---  
+## v1.1.0.2
+<details>  
 
----  
-
-## 1.1.0.2 - PATCH RESOLUTIONS
-<details>
+### PATCH RESOLUTIONS
+  <details>
 
 __CC Camping Supplies__  
 *Square flames*
@@ -170,15 +173,14 @@ __SOS Genital Slider__
 
 __ENB Inventory Light Fix__  
 *Large gemstones in inventory*
-</details>
+  </details>
 
-## 1.1.0.2 - REMOVALS / CHANGES
+### REMOVALS / CHANGES
 
-### ALL PROFILES
-<details>
+#### ALL PROFILES
+  <details>
 
---- 
-#### ADDITIONS  
+##### ADDITIONS  
 ---  
 **+All Dead Trees**  
 **+Tamrielic Grass for ENB Compliex Grass** 
@@ -198,7 +200,7 @@ __ENB Inventory Light Fix__
 *Custom track for Char Grinn*
 
 --- 
-#### REMOVALS  
+##### REMOVALS  
 ---  
 **-Realistic Grass Field**  
 **-Dark Forests of Skyrim**  
@@ -217,7 +219,7 @@ __ENB Inventory Light Fix__
 **-Know Your Enemy: Traits and Resistances**
 
 ---  
-#### UPDATES  
+##### UPDATES  
 ---  
 **>Enabled XPMSE.esp**  
 **>New Sunhelm Notifications Preset**  
@@ -237,20 +239,20 @@ __ENB Inventory Light Fix__
 **>Updated NO HOPE ENB**  
 </details>
 
-### MCO PROFILES
+#### MCO PROFILES
 <details>
 
 --- 
-#### REMOVALS  
+##### REMOVALS  
 ---  
 **-Timed Block - Hellblade**
 </details>
 
-### OSTIM PROFILES
+#### OSTIM PROFILES
 <details>
 
 --- 
-#### ADDITIONS  
+##### ADDITIONS  
 ---  
 **+Bikini Mage Robes Replacer**  
 **+[Christine] High Priestess Bikini**  
@@ -258,4 +260,5 @@ __ENB Inventory Light Fix__
 **+Resqueeze: TAWOBA Dwarven**  
 **+Resqueeze: TAWOBA Dragonbone**  
 **+Resqueeze: TAWOBA Steel Armor Top 07**  
+</details>  
 </details>
