@@ -58,7 +58,7 @@ __Large Gemstones in Inventory__
 
   </details>
 
-### MCO PROFILES  
+#### MCO PROFILES  
   <details>
 
 ---  
@@ -71,7 +71,7 @@ __Large Gemstones in Inventory__
 
   </details>
 
-### OSTIM PROFILES
+#### OSTIM PROFILES
   <details>
 
 --- 
