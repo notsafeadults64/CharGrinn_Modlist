@@ -30,6 +30,8 @@ __Large Gemstones in Inventory__
 **-Dragonbone Ebonsteel Armor SE (mod no longer listed)**  
 **-DragonLord Armor**  
 **-Valkrie Armor**  
+**-LOD Unloading Bug Fix**  
+**-LOD Unloading Bug Fix - Settings Loader**  
 **-ENB Particle Lights for Gemstones**  
 **-ENB Particle Lights for ENB SE - Paragon Gems**  
 **-ENB Light Inventory Fix (ELIF)**  
@@ -54,12 +56,16 @@ __Large Gemstones in Inventory__
 
 </details>
 
-### MCO PROFILES
+### MCO PROFILES  
 <details>
 
---- 
-#### IN PROGRESS
 ---  
+#### REMOVALS
+---   
+**-Animations - Elden Rim Moveset (SCAR)**  
+**-Animations - Elden Rim Moveset (SCAR)**  
+**-Animations - Underwater Combat**  
+ 
 
 </details>
 
@@ -84,11 +90,38 @@ __Large Gemstones in Inventory__
 **+Conjure Companion OStim NG**  
 **+Morning Sex**  
 **+OVamp -the other way to feed**  
+**+Devour - Vampire Feeding Animations for OStim NG**  
+**+Lovemaking Compendium for OStim Standalone**  
+**+OStim Standalone Anal Animation Add On**  
+**+Billyy Table Pack for OStim Standalone**  
+**+Billyy Chair and Bench Pack for OStim Standalone**  
+**+Night-blooming Violets for OStim Standalone**  
+**+Delta of Venus - Sex Fantasies for OStim NG**  
+**+Fencing In The Dark for OStim Standalone**  
+**+Moon Lovemaking Compendium for OStim NG**  
+**+Billyy Furniture Pack for OStim NG**  
+**+OEquip**  
+**+BakaFactory Ostim Port NG**  
+**+OpenSex compatibility patch**  
+**+Default.ini Patch - Anal Addon - Drago Foot Addon**  
+**+Drago's Love Those Neighbours for OStim Standalone**  
+**+Drago's Enchant Those Potions for OStim Standalone**  
+**+Drago's Foot Animation Add On for OStim Standalone**  
+**+OpenSex Anal Animations Add on**  
+**+OpenSex Addon Hub**  
+**+Randall's Fia Hug Pack OpenSex Add On**  
+**+Open Animations Romance and Erotica**  
+**+Feet Animation pack for OStim NG**  
+**+Billyy Group animation pack for OStim NG - Extended Version**  
+**+Nibbles Animation Pack for OStim**  
+**+Billyy Lesbian Animation Pack for OStim**  
+**+Billy Threesome animation pack for OStim NG**  
+**+Billy Lesbian 3P animation pack for OStim NG**  
 
 --- 
 #### REMOVALS  
 ---  
-**-**  
+**-ALL OSTIM NG mods & animations**  
 
 </details>
 
