@@ -37,10 +37,10 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 
 The Char Grinn Mod List comes in FOUR profiles -
 
-### Char Grinn Base v1.1.0.2
+### Char Grinn Base v1.1.0.3
 <details>
 
-- Current ESM + ESP total: 238
+- Current ESM + ESP total: 235
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
