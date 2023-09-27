@@ -250,7 +250,7 @@ Bugs, glitches, and other undesirables may occur during your playthrough of this
 
 ============================================================================================
 
-- DARK FORESTS OF SKYRIM
+- ALL TREES DEAD
 Random Floating Trees
 Workaround – None at this time
 
@@ -259,20 +259,11 @@ Trees Load-in
 Essentially, some tree models have a 'thicker' static image which makes it appear that the trees load as you get within a certain distance. I am attempting to identify and correct these in future updates. It is quite an undertaking.
 Workaround - None at this time
 
-- DYNDOLOD
-Bright Waterfalls
-This one eludes me. Waterfalls have 3x different LODs that load as you get closer. This one
-pisses me off as I can't seem to find the root cause.
-Workaround - None at this time
-
 - VALHALLA COMBAT
 Temporary Invincibility Bug
 Valhalla Combat has its own execution triggers that are known to break. During combat you
 may trigger an execution combat but the enemy will still be alive and unable to be hit for several
 seconds. This is a known issue with the mod that I have yet to figure out a fix. Even having
-
-Valhalla Combat executions disabled, this will randomly occur.
-Workaround - None at this time
 	
 </details>
 	
