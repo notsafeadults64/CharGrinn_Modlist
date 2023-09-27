@@ -49,7 +49,9 @@ __Large Gemstones in Inventory__
 **>Updated Conditional Expressions v1.27**  
 **>Updated Conditional Expressions for NPCs v1.28**  
 **>Updated Navigator - Navmesh Fixes v1.5.2**    
-**>Updated Caliente's Beautiful Bodies Enhancer CBBE v.2.0.1**  
+**>Updated BodySlide and Outfit Studio v5.6.3**  
+**>Updated Open Animation Replacer v2.0.2**  
+**>Updated Caliente's Beautiful Bodies Enhancer CBBE v2.0.1**  
 **>Updated DynDOLOD 3.00 Alpha-148**  
 **>Updated DynDOLOD Resource SE 3.00 vAlpha-45**  
 **>Updated Char Grinn BodySlide Output**  
@@ -61,13 +63,22 @@ __Large Gemstones in Inventory__
 #### MCO PROFILES  
   <details>
 
+--- 
+##### ADDITIONS  
+---  
+**NONE FOR v1.1.0.3**  
+
 ---  
 ##### REMOVALS
 ---   
 **-Animations - Elden Rim Moveset (SCAR)**  
 **-Animations - Elden Rim Moveset (SCAR)**  
 **-Animations - Underwater Combat**  
- 
+
+---  
+##### UPDATES  
+---
+**NONE FOR v1.1.0.3**  
 
   </details>
 
@@ -124,6 +135,11 @@ __Large Gemstones in Inventory__
 ##### REMOVALS  
 ---  
 **-ALL OSTIM NG mods & animations**  
+
+---  
+##### UPDATES  
+---
+**NONE FOR v1.1.0.3**  
 
   </details>
 </details>
