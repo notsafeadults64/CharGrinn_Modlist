@@ -4,19 +4,19 @@
 
 ## Visceral, Grim, & Simplistic
 
-Feedback is encouraged.
+**!!Feedback is encouraged!!**  
 
-This modlist is designed to turn Skyrim into a dark, tense, and terrifying experience. The world of Tamriel is full of dangers and horrors, and this modlist highlights them all. 
+This modlist is designed to turn Skyrim into a dark, tense, and terrifying experience. The world of Tamriel is full of dangers and horrors, and this modlist highlights them all.  
 
-The world is transformed into a creepy, atmospheric landscape, with foggy forests, haunted ruins, and customized eerie lighting effects.  Utiizes RAID Weathers to provide ACTUAL cover that impacts Player/NPC visibility and detection!
+The world is transformed into a creepy, atmospheric landscape, with foggy forests, haunted ruins, and customized eerie lighting effects.  Utiizes RAID Weathers to provide ACTUAL cover that impacts Player/NPC visibility and detection!  
 
-To enhance the tension and horror, the modlist includes several gameplay mods that make combat more visceral and dangerous.
+To enhance the tension and horror, the modlist includes several gameplay mods that make combat more visceral and dangerous.  
 
 ## INTRODUCTION
 
-Wabbajack Version: 1.1.0.0 (released 09/01/2023)
+**Wabbajack Version: 1.1.0.0 (released 09/01/2023)**  
 
-Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc) 
+*Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc)*  
 
 Char Grinn is a passion project that is inspired by Cacophony's Licentia Classic & Licentia Black mod pack.
 
@@ -44,42 +44,42 @@ The Char Grinn Mod List comes in FOUR profiles -
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
-- Animations:  760+
+- Animations:  760+ (includes combat & misc animations)
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
 </details>
 
-### Char Grinn MCO v1.1.0.2
+### Char Grinn MCO v1.1.0.3
 <details>
 
-- Current ESM + ESP total: 242
+- Current ESM + ESP total: 241
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
-- Animations:  1700+
+- Animations:  1700+ (includes combat & misc animations)
 
 Identical to the Base profile except that it utilizes the MCO (Modern Combat Overhaul) system and animations.
 
 </details>
 
-### Char Grinn BASE + OSTIM (1.1.0.0)
+### Char Grinn BASE + OSTIM (1.1.0.3)
 <details>
 
-- Current ESM + ESP total: 248
+- Current ESM + ESP total: 244
 
-- Animations:  9200+
+- Animations:  9200+ (includes combat, misc, & adult animations)
 	
 If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
 </details>
 
-### Char Grinn MCO + OSTIM (1.1.0.0)
+### Char Grinn MCO + OSTIM (1.1.0.3)
 <details>
 
-- Current ESM + ESP total: 252
+- Current ESM + ESP total: 246
 
-- Animations:  9800+
+- Animations:  10k+ (includes combat, misc, & adult animations)
 	
 If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
