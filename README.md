@@ -44,7 +44,7 @@ The Char Grinn Mod List comes in FOUR profiles -
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
-- Animations:  760+ (includes combat & misc animations)
+- Animations:  750+ (includes combat & misc animations)
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
@@ -57,7 +57,7 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
-- Animations:  1700+ (includes combat & misc animations)
+- Animations:  1300+ (includes combat & misc animations)
 
 Identical to the Base profile except that it utilizes the MCO (Modern Combat Overhaul) system and animations.
 
