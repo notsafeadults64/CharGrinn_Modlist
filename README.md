@@ -37,7 +37,8 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 
 The Char Grinn Mod List comes in FOUR profiles -
 
-### Char Grinn Base v1.1.0.3
+### Char Grinn BASE v1.1.0.3  
+---  
 <details>
 
 - Current ESM + ESP total: 235
@@ -50,7 +51,8 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn MCO v1.1.0.3
+### Char Grinn MCO v1.1.0.3  
+---  
 <details>
 
 - Current ESM + ESP total: 241
@@ -63,7 +65,8 @@ Identical to the Base profile except that it utilizes the MCO (Modern Combat Ove
 
 </details>
 
-### Char Grinn BASE + OSTIM (1.1.0.3)
+### Char Grinn BASE + OSTIM (1.1.0.3)  
+---  
 <details>
 
 - Current ESM + ESP total: 244
@@ -74,7 +77,8 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 
 </details>
 
-### Char Grinn MCO + OSTIM (1.1.0.3)
+### Char Grinn MCO + OSTIM (1.1.0.3)  
+---  
 <details>
 
 - Current ESM + ESP total: 246
@@ -94,12 +98,13 @@ If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It c
 </details>
 
 ##  INSTALLATION
-<details>
-###  Installing Microsoft Visual C++ Redistributable Package
+<details>  
+
+###  Installing Microsoft Visual C++ Redistributable Package 
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
-###  Steam Config
+###  Update Steam
 
 **Change Steam's Update Behavior**
 
@@ -244,26 +249,27 @@ OSTIM PROFILES
 </details>
 
 ##  KNOWN ISSUES
-<details>
-	
-Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.
+<details>  
 
-============================================================================================
+*Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.*  
 
-- ALL TREES DEAD
-Random Floating Trees
-Workaround – None at this time
+---  
 
-- DYNDOLOD
+##### ALL TREES DEAD  
+Random Floating Trees  
+Workaround? – None at this time
+
+##### DYNDOLOD
 Trees Load-in
 Essentially, some tree models have a 'thicker' static image which makes it appear that the trees load as you get within a certain distance. I am attempting to identify and correct these in future updates. It is quite an undertaking.
-Workaround - None at this time
+Workaround? - None at this time
 
-- VALHALLA COMBAT
+##### VALHALLA COMBAT
 Temporary Invincibility Bug
 Valhalla Combat has its own execution triggers that are known to break. During combat you
 may trigger an execution combat but the enemy will still be alive and unable to be hit for several
 seconds. This is a known issue with the mod that I have yet to figure out a fix. Even having
+Workaround? - None at this time
 	
 </details>
 	
