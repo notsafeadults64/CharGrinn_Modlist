@@ -40,6 +40,8 @@ __Large Gemstones in Inventory__
 **-ENBLights Plus ELIF Compatibility**  
 **-Giant gem on the menu fix**  
 
+*Note - LOD Unloading Bug Fix has been removed as I mainly use it for testing.  If you want to add it back cause you get a stuck LOD texture, feel free!*  
+
 ---  
 ##### UPDATES  
 ---  
