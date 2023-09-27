@@ -81,7 +81,7 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 ---  
 <details>
 
-- Current ESM + ESP total: 246
+- Current ESM + ESP total: 248
 
 - Animations:  10k+ (includes combat, misc, & adult animations)
 	
