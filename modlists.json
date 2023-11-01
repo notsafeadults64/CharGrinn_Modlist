@@ -24,7 +24,7 @@
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_BASE.png",
+      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinnv12_BASE.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/BASE.CharGrinn.wabbajack_da03ba5d-815e-4319-befa-8ae66ed7bffe",
       "machineURL": "CharGrinn",
@@ -69,7 +69,7 @@
     "image_contains_title": false,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_MCO.png",
+      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinnv12_MCO.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/MCO.CharGrinn.wabbajack_4ef401a5-bca4-43a9-97e4-78fdd5cb9638",
       "machineURL": "CharGrinnMCO",
