@@ -26,26 +26,26 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinnv12_BASE.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BASE.CharGrinn.wabbajack_da03ba5d-815e-4319-befa-8ae66ed7bffe",
+      "download": "https://authored-files.wabbajack.org/BASE.CharGrinn.wabbajack_69830282-7e4e-4c90-b5f5-40262f7cd41c",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "2O83PkaK9hQ=",
-      "Size": 599412309,
-      "NumberOfArchives": 1991,
-      "SizeOfArchives": 153445240056,
-      "NumberOfInstalledFiles": 265794,
-      "SizeOfInstalledFiles": 284303685548
+      "Hash": "c405pHO7MMc=",
+      "Size": 599926646,
+      "NumberOfArchives": 1993,
+      "SizeOfArchives": 153520513545,
+      "NumberOfInstalledFiles": 266567,
+      "SizeOfInstalledFiles": 284293962854
     },
     "version": "1.2.0.0",
-    "dateCreated": "2023-10-31T04:05:15Z",
-    "dateUpdated": "2023-10-31T04:05:15Z",
+    "dateCreated": "2023-10-31T08:28:15Z",
+    "dateUpdated": "2023-10-31T08:28:15Z",
     "repositoryName": ""
   },
   {
     "title": "CharGrinn - MCO",
-    "description": "Visceral, Grim, & Simplistic.  Combat Style similar to Elden Ring & Dark Souls (Slow & Methodical)",
+    "description": "Visceral & Grim.  Combat Style similar to Elden Ring & Dark Souls (Slow & Methodical)",
     
     "author": "NotSafeForAdults64",
     "maintainers": [
@@ -67,25 +67,25 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinnv12_MCO.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/MCO.CharGrinn.wabbajack_4ef401a5-bca4-43a9-97e4-78fdd5cb9638",
+      "download": "https://authored-files.wabbajack.org/MCO.CharGrinn.wabbajack_3b6fa154-8f9b-44bd-8943-bf95b4d6c4c3",
       "machineURL": "CharGrinnMCO",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "fJXOQ0Zjw6Q=",
-      "Size": 758449727,
-      "NumberOfArchives": 1887,
-      "SizeOfArchives": 156696287585,
-      "NumberOfInstalledFiles": 300809,
-      "SizeOfInstalledFiles": 280994287513
+      "Hash": "VeiHyNgLgBk=",
+      "Size": 599913162,
+      "NumberOfArchives": 1991,
+      "SizeOfArchives": 153523491278,
+      "NumberOfInstalledFiles": 267662,
+      "SizeOfInstalledFiles": 284298703411
     },
-    "version": "1.1.0.3",
-    "dateCreated": "2023-09-28T05:46:15Z",
-    "dateUpdated": "2023-09-28T05:46:15Z",
+    "version": "1.2.0.0",
+    "dateCreated": "2023-10-31T08:28:15Z",
+    "dateUpdated": "2023-10-31T08:28:15Z",
     "repositoryName": ""
   },
   {
