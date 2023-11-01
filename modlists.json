@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinnv12_BASE.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BASE.CharGrinn.wabbajack_69830282-7e4e-4c90-b5f5-40262f7cd41c",
+      "download": "https://authored-files.wabbajack.org/BASE.CharGrinn.wabbajack_32ae5cbc-b85f-46c0-9ae0-8d1c0dd4d545",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "c405pHO7MMc=",
-      "Size": 599926646,
-      "NumberOfArchives": 1993,
-      "SizeOfArchives": 153520513545,
-      "NumberOfInstalledFiles": 266567,
-      "SizeOfInstalledFiles": 284293962854
+      "Hash": "PdY738n1Clo=",
+      "Size": 601096058,
+      "NumberOfArchives": 1987,
+      "SizeOfArchives": 154150250246,
+      "NumberOfInstalledFiles": 266714,
+      "SizeOfInstalledFiles": 284299376312
     },
-    "version": "1.2.0.0",
-    "dateCreated": "2023-10-31T08:28:15Z",
-    "dateUpdated": "2023-10-31T08:28:15Z",
+    "version": "1.2.0.1",
+    "dateCreated": "2023-11-01T04:55:15Z",
+    "dateUpdated": "2023-11-01T04:55:15Z",
     "repositoryName": ""
   },
   {
@@ -71,21 +71,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinnv12_MCO.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/MCO.CharGrinn.wabbajack_057849d7-442f-4844-b29b-74742b6a8a09",
+      "download": "https://authored-files.wabbajack.org/MCO.CharGrinn.wabbajack_3d4db6fc-f98f-4912-bbfc-2897b3c15edc",
       "machineURL": "CharGrinnMCO",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "XI+67VRRJQQ=",
-      "Size": 600683230,
-      "NumberOfArchives": 1987,
-      "SizeOfArchives": 154139925721,
-      "NumberOfInstalledFiles": 267865,
-      "SizeOfInstalledFiles": 284289248868
+      "Hash": "klBT7aTbDrk=",
+      "Size": 600505972,
+      "NumberOfArchives": 1985,
+      "SizeOfArchives": 154139622883,
+      "NumberOfInstalledFiles": 267829,
+      "SizeOfInstalledFiles": 284287942057
     },
     "version": "1.2.0.1",
-    "dateCreated": "2023-10-31T02:40:15Z",
-    "dateUpdated": "2023-10-31T02:40:15Z",
+    "dateCreated": "2023-11-01T04:55:15Z",
+    "dateUpdated": "2023-11-01T04:55:15Z",
     "repositoryName": ""
   },
   {
