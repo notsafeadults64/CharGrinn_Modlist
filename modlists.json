@@ -90,7 +90,7 @@
   },
   {
     "title": "CharGrinn - BASE + OSTIM",
-    "description": "Visceral, Grim, & Simplistic.  Combat Style similar to God of War & Horizon Zero Dawn (Fast & Frantic) + Adult Situations ;)",
+    "description": "Visceral & Grim.  Combat Style similar to God of War & Horizon Zero Dawn (Fast & Frantic) + Adult Situations ;)",
     
     "author": "NotSafeForAdults64",
     "maintainers": [
@@ -112,25 +112,25 @@
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_BOSTIM.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BOSTIM.CharGrinn.wabbajack_6c45f79d-a226-4bdf-9735-ff615b29ead8",
+      "download": "https://authored-files.wabbajack.org/BOSTIM.CharGrinn.wabbajack_23839371-95ad-4040-8910-dcb0ea4f75b0",
       "machineURL": "CharGrinnBOSTIM",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "H24gf3aJDcc=",
-      "Size": 759300535,
-      "NumberOfArchives": 1927,
-      "SizeOfArchives": 160043035390,
-      "NumberOfInstalledFiles": 334586,
-      "SizeOfInstalledFiles": 291627815074
+      "Hash": "HTILbWwJa8U=",
+      "Size": 644879215,
+      "NumberOfArchives": 2048,
+      "SizeOfArchives": 157962613752,
+      "NumberOfInstalledFiles": 323209,
+      "SizeOfInstalledFiles": 288605767833
     },
-    "version": "1.1.0.3",
-    "dateCreated": "2023-09-28T06:20:15Z",
-    "dateUpdated": "2023-09-28T06:20:15Z",
+    "version": "1.2.0.1",
+    "dateCreated": "2023-11-01T11:50:15Z",
+    "dateUpdated": "2023-11-01T11:50:15Z",
     "repositoryName": ""
   },
   {
