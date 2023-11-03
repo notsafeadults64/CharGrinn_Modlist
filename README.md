@@ -92,6 +92,8 @@ If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It c
 ## REQUIREMENTS
 <details>
 
+- [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/)
+- [Skyrim Special Edition Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
@@ -217,34 +219,47 @@ If you don't want to, no worries, just disable the mod entirely.
 
 The steps within the guide are REQUIRED if playing the modlist in its' current iteration.  Failure to execute *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
 
-BASE & MCO PROFILES
+**BASE & MCO PROFILES**
 
 1. Load into new game
 2. Sit at the Helgen scene until ALL messages finish
 3. Go into Skyrim Unbound MCM menu, configure your preferred start settings (armor, weapons, etc.), close menu
-4. Press Enter and choose Current Settings.  Note - Char Grinn option is for a Barbarian build and will undo any settings you made.
+4. Press Enter and choose Humble Beginnings (you will be nude in Racemenu!).  
+   _Note - Char Grinn option is for a Barbarian build and will undo any settings you made._
 5. Next screen, create your character
 6. Choose "Stay Here" when finished
 7. Run MCM Recorder (1st recording)
 8. Save when finished
 9. Hit enter, go back into Racemenu (there is a bug where your face will reset if you don't do this), and then just exit it again
-10. Hit enter, continue
-11. Play
+10. Open Magic Menu and go to Powers
+11. Select "Class Selection"
+12. Use Class Selection power, choose your class
+13. Open Inventory Menu, go to Scrolls
+14. Select your preferred "Humble Beginnings" background
+15. Cast as magic to apply
+16. Hit enter and select Continue
+17. Play
 
-OSTIM PROFILES
+**OSTIM PROFILES**
 
 1. Load into new game
 2. Sit at the Helgen scene until ALL messages finish
 3. Go into Skyrim Unbound MCM menu, configure your preferred start settings (armor, weapons, etc.), close menu
-4. Press Enter and choose Current Settings.  Note - Char Grinn option is for a Barbarian build and will undo any settings you made.
+4. Press Enter and choose Humble Beginnings (you will be nude in Racemenu!).  
+   _Note - Char Grinn option is for a Barbarian build and will undo any settings you made._
 5. Next screen, create your character
 6. Choose "Stay Here" when finished
 7. Run MCM Recorder (1st recording)
-8. Run MCM Recorder (2nd recording)
-9. Save when finished
-10. Hit enter, go back into Racemenu (there is a bug where your face will reset if you don't do this), and then just exit it again
-11. Hit enter, continue
-12. Play
+8. Save when finished
+9. Hit enter, go back into Racemenu (there is a bug where your face will reset if you don't do this), and then just exit it again
+10. Open Magic Menu and go to Powers
+11. Select "Class Selection"
+12. Use Class Selection power, choose your class
+13. Open Inventory Menu, go to Scrolls
+14. Select your preferred "Humble Beginnings" background
+15. Cast as magic to apply
+16. Hit enter and select Continue
+17. Play
  
 </details>
 
@@ -254,15 +269,6 @@ OSTIM PROFILES
 *Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.*  
 
 ---  
-
-##### ALL TREES DEAD  
-Random Floating Trees  
-Workaround? – None at this time
-
-##### DYNDOLOD
-Trees Load-in
-Essentially, some tree models have a 'thicker' static image which makes it appear that the trees load as you get within a certain distance. I am attempting to identify and correct these in future updates. It is quite an undertaking.
-Workaround? - None at this time
 
 ##### VALHALLA COMBAT
 Temporary Invincibility Bug
