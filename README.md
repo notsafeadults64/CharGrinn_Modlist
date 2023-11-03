@@ -77,7 +77,7 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 
 </details>
 
-### Char Grinn MCO + OSTIM v1.1.0.2  
+### Char Grinn MCO + OSTIM v1.2.0.2  
 ---  
 <details>
 
