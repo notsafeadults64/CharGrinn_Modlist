@@ -237,8 +237,9 @@ The steps within the guide are REQUIRED if playing the modlist in its' current i
 13. Open Inventory Menu, go to Scrolls
 14. Select your preferred "Humble Beginnings" background
 15. Cast as magic to apply
-16. Hit enter and select Continue
-17. Play
+16. Dump all unused "Humble Beginning" scrolls in the empty chest in the Skyrim Unbound room
+17. Hit enter and select Continue
+18. Play
 
 **OSTIM PROFILES**
 
@@ -258,8 +259,9 @@ The steps within the guide are REQUIRED if playing the modlist in its' current i
 13. Open Inventory Menu, go to Scrolls
 14. Select your preferred "Humble Beginnings" background
 15. Cast as magic to apply
-16. Hit enter and select Continue
-17. Play
+16. Dump all unused "Humble Beginning" scrolls in the empty chest in the Skyrim Unbound room
+17. Hit enter and select Continue
+18. Play
  
 </details>
 
