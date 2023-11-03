@@ -14,7 +14,7 @@ To enhance the tension and horror, the modlist includes several gameplay mods th
 
 ## INTRODUCTION
 
-**Wabbajack Version: 1.1.0.0 (released 09/01/2023)**  
+**Wabbajack Version: 1.2.0.0 (released 10/31/2023)**  
 
 *Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc)*  
 
@@ -37,25 +37,25 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 
 The Char Grinn Mod List comes in FOUR profiles -
 
-### Char Grinn BASE v1.1.0.3  
+### Char Grinn BASE v1.2.0.2
 ---  
 <details>
 
-- Current ESM + ESP total: 235
+- Current ESM + ESP total: 236
 
 - Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
 
-- Animations:  750+ (includes combat & misc animations)
+- Animations:  800+ (includes combat & misc animations)
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
 </details>
 
-### Char Grinn MCO v1.1.0.3  
+### Char Grinn MCO v1.2.0.2  
 ---  
 <details>
 
-- Current ESM + ESP total: 241
+- Current ESM + ESP total: 237
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
@@ -65,25 +65,25 @@ Identical to the Base profile except that it utilizes the MCO (Modern Combat Ove
 
 </details>
 
-### Char Grinn BASE + OSTIM (1.1.0.3)  
+### Char Grinn BASE + OSTIM v1.2.0.2
 ---  
 <details>
 
-- Current ESM + ESP total: 244
+- Current ESM + ESP total: 238
 
-- Animations:  9200+ (includes combat, misc, & adult animations)
+- Animations:  13k+ (includes combat, misc, & adult animations)
 	
 If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
 </details>
 
-### Char Grinn MCO + OSTIM (1.1.0.3)  
+### Char Grinn MCO + OSTIM v1.1.0.2  
 ---  
 <details>
 
-- Current ESM + ESP total: 248
+- Current ESM + ESP total: 239
 
-- Animations:  10k+ (includes combat, misc, & adult animations)
+- Animations:  13k+ (includes combat, misc, & adult animations)
 	
 If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
