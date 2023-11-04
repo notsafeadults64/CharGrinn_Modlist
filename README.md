@@ -12,6 +12,10 @@ The world is transformed into a creepy, atmospheric landscape, with foggy forest
 
 To enhance the tension and horror, the modlist includes several gameplay mods that make combat more visceral and dangerous.  
 
+## NOTE ON DIFFICULTY
+Char Grinn utilizes the following difficulty mod: [Yet Another Difficulty Mod](https://www.nexusmods.com/skyrimspecialedition/mods/80224?tab=description) 
+_Dynamic: changes game's difficulty level depending on the level of the player_
+
 ## INTRODUCTION
 
 **Wabbajack Version: 1.2.0.2 (released 11/03/2023)**  
@@ -36,8 +40,6 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 [BRAND NEW | Char Grinn ALPHA | Skyrim Modlist Quicklook](https://www.youtube.com/watch?v=8ZwR236tq3c)
 
 The Char Grinn Mod List comes in FOUR profiles -
-
-Note - Difficulty:  Dynamic; changes game's difficulty level depending on the level of the player [Yet Another Difficulty Mod](https://www.nexusmods.com/skyrimspecialedition/mods/80224?tab=description)
 
 ### Char Grinn BASE v1.2.0.2
 ---  
