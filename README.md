@@ -18,7 +18,7 @@ _Dynamic: changes game's difficulty level depending on the level of the player_
 
 ## INTRODUCTION
 
-**Wabbajack Version: 1.2.0.2 (released 11/03/2023)**  
+**Wabbajack Version: 1.2.1.0 (released 11/13/2023)**  
 
 *Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc)*  
 
@@ -41,7 +41,7 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 
 The Char Grinn Mod List comes in FOUR profiles -
 
-### Char Grinn BASE v1.2.0.2
+### Char Grinn BASE v1.2.1.0
 ---  
 <details>
 
@@ -55,7 +55,7 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn MCO v1.2.0.2  
+### Char Grinn MCO v1.2.1.0  
 ---  
 <details>
 
