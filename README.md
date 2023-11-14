@@ -210,79 +210,19 @@ I DO recommend everyone do this if comfortable as it DOES make a difference! The
 mod is already in the list, you just have to do the calculator and mod file update parts.
 If you don't want to, no worries, just disable the mod entirely.
 
-
-
-
 </details>
 
 
 ##  STARTING A NEW GAME
 <details>
 
-[VIDEO GUIDE](https://youtu.be/p3EYn9s3vEc)
+The steps below are REQUIRED if playing the modlist in its' current iteration. Failure to execute **MAY** impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
 
-The steps within the guide are REQUIRED if playing the modlist in its' current iteration.  Failure to execute *MAY* impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
-
-**BASE & MCO PROFILES**
-
-1. Load into new game
-2. Sit at the Helgen scene until ALL messages finish
-3. Go into Skyrim Unbound MCM menu, configure your preferred start settings (armor, weapons, etc.), close menu
-4. Press Enter and choose Humble Beginnings (you will be nude in Racemenu!).  
-   _Note - Char Grinn option is for a Barbarian build and will undo any settings you made._
-5. Next screen, create your character
-6. Choose "Stay Here" when finished
-7. Run MCM Recorder (1st recording)
-8. Save when finished
-9. Hit enter, go back into Racemenu (there is a bug where your face will reset if you don't do this), and then just exit it again
-10. Open Magic Menu and go to Powers
-11. Select "Class Selection"
-12. Use Class Selection power, choose your class
-13. Open Inventory Menu, go to Scrolls
-14. Select your preferred "Humble Beginnings" background
-15. Cast as magic to apply
-16. Dump all unused "Humble Beginning" scrolls in the empty chest in the Skyrim Unbound room
-17. Hit enter and select Continue
-18. Play
-
-**OSTIM PROFILES**
-
-1. Load into new game
-2. Sit at the Helgen scene until ALL messages finish
-3. Go into Skyrim Unbound MCM menu, configure your preferred start settings (armor, weapons, etc.), close menu
-4. Press Enter and choose Humble Beginnings (you will be nude in Racemenu!).  
-   _Note - Char Grinn option is for a Barbarian build and will undo any settings you made._
-5. Next screen, create your character
-6. Choose "Stay Here" when finished
-7. Run MCM Recorder (1st recording)
-8. Save when finished
-9. Hit enter, go back into Racemenu (there is a bug where your face will reset if you don't do this), and then just exit it again
-10. Open Magic Menu and go to Powers
-11. Select "Class Selection"
-12. Use Class Selection power, choose your class
-13. Open Inventory Menu, go to Scrolls
-14. Select your preferred "Humble Beginnings" background
-15. Cast as magic to apply
-16. Dump all unused "Humble Beginning" scrolls in the empty chest in the Skyrim Unbound room
-17. Hit enter and select Continue
-18. Play
+1.	New Game
+2.	Remain at Helgen scene until ALL messages finish
+3.	Press Enter and choose Humble Beginnings (you will be nude in Racemenu!).
+4.	Next screen, create your character
+5.	Choose Stay Here when finished
+6.	Read the Welcome to Char Grinn note on the door and follow the steps!
  
 </details>
-
-##  KNOWN ISSUES
-<details>  
-
-*Bugs, glitches, and other undesirables may occur during your playthrough of this modlist.  Some are just expected due to the age of the game engine and the amount of mods piled on top.  I will help where I can and will enlist the assistance of others in the community to help resolve what is possible.*  
-
----  
-
-##### VALHALLA COMBAT
-Temporary Invincibility Bug
-Valhalla Combat has its own execution triggers that are known to break. During combat you
-may trigger an execution combat but the enemy will still be alive and unable to be hit for several
-seconds. This is a known issue with the mod that I have yet to figure out a fix. Even having
-Workaround? - None at this time
-	
-</details>
-	
- 
