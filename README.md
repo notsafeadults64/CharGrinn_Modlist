@@ -216,6 +216,8 @@ If you don't want to, no worries, just disable the mod entirely.
 ##  STARTING A NEW GAME
 <details>
 
+**!!NOTE!! - OSTIM profiles are NOT on v1.2.1.0 yet!  You will follow this video guide [CHAR GRINN SETUP](https://www.youtube.com/watch?v=p3EYn9s3vEc&t)**
+
 The steps below are REQUIRED if playing the modlist in its' current iteration. Failure to execute **MAY** impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
 
 1.	New Game
