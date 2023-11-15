@@ -224,5 +224,7 @@ The steps below are REQUIRED if playing the modlist in its' current iteration. F
 4.	Next screen, create your character
 5.	Choose Stay Here when finished
 6.	Read the Welcome to Char Grinn note on the door and follow the steps!
- 
+
+For when you get to the Faster HDT-SMP part ;)  Setup based on YOUR computer configuration.
+https://discord.com/channels/1089604320225398867/1090339890882957382/1169276548331872370
 </details>
