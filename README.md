@@ -18,7 +18,7 @@ _Dynamic: changes game's difficulty level depending on the level of the player_
 
 ## INTRODUCTION
 
-**Wabbajack Version: 1.2.1.0 (released 11/13/2023)**  
+**Wabbajack Version: 1.2.1.1 (released 11/18/2023)**  
 
 *Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc)*  
 
