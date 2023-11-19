@@ -53,6 +53,8 @@ The Char Grinn Mod List comes in FOUR profiles -
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
+[Base v1.2.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-base-profile-4/char-grinn-base-profile-5)
+
 </details>
 
 ### Char Grinn MCO v1.2.1.1  
@@ -67,6 +69,8 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 Identical to the Base profile except that it utilizes the MCO (Modern Combat Overhaul) system and animations.
 
+[MCO v1.2.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-mco-profile-1/char-grinn-mco-profile)
+
 </details>
 
 ### Char Grinn BASE + OSTIM v1.2.1.1
@@ -79,6 +83,9 @@ Identical to the Base profile except that it utilizes the MCO (Modern Combat Ove
 	
 If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
+
+[BOSTIM v1.1.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-base-ostim-profile-1/char-grinn-base-ostim-profile)
+
 </details>
 
 ### Char Grinn MCO + OSTIM v1.2.1.1  
@@ -90,6 +97,8 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 - Animations:  13k+ (includes combat, misc, & adult animations)
 	
 If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
+
+[MOSTIM v1.1.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-mco-ostim-profile-1/char-grinn-mco-ostim-profile)
 
 </details>
 
