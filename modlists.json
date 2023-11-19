@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_BASE_v1210.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/v1210BASE.CharGrinn.wabbajack_b927eed3-7e23-423c-8061-80abf16f32e7",
+      "download": "https://authored-files.wabbajack.org/v1211BASE.CharGrinn.wabbajack_68a32a9e-b3f3-4137-95be-11c536833765",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "3uFYUNwUN9E=",
-      "Size": 594944831,
-      "NumberOfArchives": 2093,
-      "SizeOfArchives": 162621094211,
-      "NumberOfInstalledFiles": 369146,
-      "SizeOfInstalledFiles": 304100025237
+      "Hash": "+aW3JkwURoo=",
+      "Size": 705567338,
+      "NumberOfArchives": 2102,
+      "SizeOfArchives": 163028206087,
+      "NumberOfInstalledFiles": 373849,
+      "SizeOfInstalledFiles": 304808097368
     },
-    "version": "1.2.1.0",
-    "dateCreated": "2023-11-13T12:16:15Z",
-    "dateUpdated": "2023-11-13T12:16:15Z",
+    "version": "1.2.1.1",
+    "dateCreated": "2023-11-19T12:55:15Z",
+    "dateUpdated": "2023-11-19T12:55:15Z",
     "repositoryName": ""
   },
   {
@@ -71,21 +71,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_MCO_v1210.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/v1210MCO.CharGrinn.wabbajack_3b694801-a17b-404f-93d8-09dfb9d98a1f",
+      "download": "https://authored-files.wabbajack.org/v1211MCO.CharGrinn.wabbajack_53cff981-a872-4f37-8430-a2051b1145f7",
       "machineURL": "CharGrinnMCO",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "6KbPp3fNXWU=",
-      "Size": 595215523,
-      "NumberOfArchives": 2105,
-      "SizeOfArchives": 162631927868,
-      "NumberOfInstalledFiles": 371135,
-      "SizeOfInstalledFiles": 304119708961
+      "Hash": "VF6f8X8knJw=",
+      "Size": 705559161,
+      "NumberOfArchives": 2112,
+      "SizeOfArchives": 163034130425,
+      "NumberOfInstalledFiles": 375851,
+      "SizeOfInstalledFiles": 304827875918
     },
-    "version": "1.2.1.0",
-    "dateCreated": "2023-11-13T12:16:15Z",
-    "dateUpdated": "2023-11-13T12:16:15Z",
+    "version": "1.2.1.1",
+    "dateCreated": "2023-11-18T12:55:15Z",
+    "dateUpdated": "2023-11-18T12:55:15Z",
     "repositoryName": ""
   },
   {
@@ -111,7 +111,7 @@
     ],
     "nsfw": true,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_BOSTIM_v1210.png",
