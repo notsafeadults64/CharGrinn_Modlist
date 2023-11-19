@@ -94,7 +94,7 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 
 - Current ESM + ESP total: 240
 
-- Animations:  13k+ (includes combat, misc, & adult animations)
+- Animations:  14k+ (includes combat, misc, & adult animations)
 	
 If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
