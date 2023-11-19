@@ -41,7 +41,7 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 
 The Char Grinn Mod List comes in FOUR profiles -
 
-### Char Grinn BASE v1.2.1.0
+### Char Grinn BASE v1.2.1.1
 ---  
 <details>
 
@@ -55,11 +55,11 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn MCO v1.2.1.0  
+### Char Grinn MCO v1.2.1.1  
 ---  
 <details>
 
-- Current ESM + ESP total: 237
+- Current ESM + ESP total: 238
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
@@ -69,11 +69,11 @@ Identical to the Base profile except that it utilizes the MCO (Modern Combat Ove
 
 </details>
 
-### Char Grinn BASE + OSTIM v1.2.0.2
+### Char Grinn BASE + OSTIM v1.2.1.1
 ---  
 <details>
 
-- Current ESM + ESP total: 238
+- Current ESM + ESP total: 239
 
 - Animations:  13k+ (includes combat, misc, & adult animations)
 	
@@ -81,11 +81,11 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 
 </details>
 
-### Char Grinn MCO + OSTIM v1.2.0.2  
+### Char Grinn MCO + OSTIM v1.2.1.1  
 ---  
 <details>
 
-- Current ESM + ESP total: 239
+- Current ESM + ESP total: 240
 
 - Animations:  13k+ (includes combat, misc, & adult animations)
 	
