@@ -33,12 +33,10 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 - My YouTube focused on this playlist:
 [NotSafeforAdults64](https://www.youtube.com/@notsafeforadults64)
 
-- Deep Voice's Review of the modlist!!!!
-[New Skyrim AE Modpack Char Grinn || A Gritty & Intense Experience](https://www.youtube.com/watch?v=PCawMwnISFA&t=752s)
-
 - Biggie_Boss' Review of the modlist!!!!
-[BRAND NEW | Char Grinn ALPHA | Skyrim Modlist Quicklook](https://www.youtube.com/watch?v=8ZwR236tq3c)
+[NEW UPDATE V1.3 | THE Viceral Gritty Modern Combat Modlist - Char Grinn](https://www.youtube.com/watch?v=8ZwR236tq3c)
 
+---
 The Char Grinn Mod List comes in TWO profiles -
 
 ### Char Grinn v1.3.0.0 (Unreleased)
