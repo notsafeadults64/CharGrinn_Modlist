@@ -33,7 +33,7 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 - My YouTube focused on this playlist:
 [NotSafeforAdults64](https://www.youtube.com/@notsafeforadults64)
 
-- Biggie_Boss' Review of the modlist!!!!
+- Biggie_Boss' Stream of v1.3 pre-release!!!!
 [NEW UPDATE V1.3 | THE Viceral Gritty Modern Combat Modlist - Char Grinn](https://www.youtube.com/watch?v=8ZwR236tq3c)
 
 ---
