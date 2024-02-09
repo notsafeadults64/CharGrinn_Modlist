@@ -44,6 +44,8 @@ The Char Grinn Mod List comes in TWO profiles -
 <details>
 
 - Current ESM + ESP total: 215
+  
+- Load Order Library Info (https://loadorderlibrary.com/lists/char-grinn-12)
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
