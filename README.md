@@ -47,7 +47,7 @@ The Char Grinn Mod List comes in TWO profiles -
   
 - [Load Order Library Info](https://loadorderlibrary.com/lists/char-grinn-12)
 
-- Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
+- Combat Style:  MCO Base (Elden Ring / Dark Souls (Slow and Methodical)
 
 - Animations:  1300+ (includes combat & misc animations)
 
@@ -61,7 +61,7 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 - Current ESM + ESP total: 225
 
-- Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
+- Combat Style:  MCO Base (Elden Ring / Dark Souls (Slow and Methodical)
 
 - Animations:  14k+ (includes combat & misc animations)
 
