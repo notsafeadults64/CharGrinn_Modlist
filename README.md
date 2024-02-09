@@ -14,7 +14,7 @@ To enhance the tension and horror, the modlist includes several gameplay mods th
 
 ## NOTE ON DIFFICULTY
 Char Grinn utilizes the following difficulty mod: [Yet Another Difficulty Mod](https://www.nexusmods.com/skyrimspecialedition/mods/80224?tab=description)  
-_Dynamic: changes game's difficulty level depending on the level of the player_  
+_Dynamic: changes game's difficulty level depending on the level of the player.  Initial setting will be NOVICE with new characters._  
 
 ## INTRODUCTION
 
