@@ -18,7 +18,7 @@ _Dynamic: changes game's difficulty level depending on the level of the player. 
 
 ## INTRODUCTION
 
-**Wabbajack Version: 1.2.1.1 (released 11/18/2023)**  
+**Wabbajack Version: 1.3.0.0 (Unreleased)**  
 
 *Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc)*  
 
@@ -41,11 +41,11 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 
 The Char Grinn Mod List comes in TWO profiles -
 
-### Char Grinn v1.3.0.0
+### Char Grinn v1.3.0.0 (Unreleased)
 ---  
 <details>
 
-- Current ESM + ESP total: 236
+- Current ESM + ESP total: 215
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
@@ -59,7 +59,7 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 ---  
 <details>
 
-- Current ESM + ESP total: 238
+- Current ESM + ESP total: 225
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
