@@ -123,7 +123,7 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 
 **Ensure Enough Free Storage Space**
 
-As of this writing (03/15/2023) approximately **20GB** is required for the `Steam` folder, **125GB** for the downloads folder, and **250GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
+As of this writing (02/09/2024) approximately **20GB** is required for the `Steam` folder, **131GB** for the downloads folder, and **250GB** for the modlist folder. These do not all need to be on the same drive. Approximately **30GB** of free space is required on your `Windows` drive and **30GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer severe performance problems.
 </details>
  
 ##  USING WABBAJACK
