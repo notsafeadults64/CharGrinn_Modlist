@@ -39,25 +39,23 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 - Biggie_Boss' Review of the modlist!!!!
 [BRAND NEW | Char Grinn ALPHA | Skyrim Modlist Quicklook](https://www.youtube.com/watch?v=8ZwR236tq3c)
 
-The Char Grinn Mod List comes in FOUR profiles -
+The Char Grinn Mod List comes in TWO profiles -
 
-### Char Grinn BASE v1.2.1.1
+### Char Grinn v1.3.0.0
 ---  
 <details>
 
 - Current ESM + ESP total: 236
 
-- Combat Style:  God of War / Horizon Zero Dawn (Fast and Frantic)
+- Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
-- Animations:  800+ (includes combat & misc animations)
+- Animations:  1300+ (includes combat & misc animations)
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
-[Base v1.2.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-base-profile-4/char-grinn-base-profile-5)
-
 </details>
 
-### Char Grinn MCO v1.2.1.1  
+### Char Grinn OSTIM v1.3.0.0 (Unreleased)
 ---  
 <details>
 
@@ -65,50 +63,18 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 - Combat Style:  Elden Ring / Dark Souls (Slow and Methodical)
 
-- Animations:  1300+ (includes combat & misc animations)
+- Animations:  14k+ (includes combat & misc animations)
 
-Identical to the Base profile except that it utilizes the MCO (Modern Combat Overhaul) system and animations.
-
-[MCO v1.2.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-mco-profile-1/char-grinn-mco-profile)
-
-</details>
-
-### Char Grinn BASE + OSTIM v1.2.1.1
----  
-<details>
-
-- Current ESM + ESP total: 239
-
-- Animations:  13k+ (includes combat, misc, & adult animations)
-	
 If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
-
-
-[BOSTIM v1.1.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-base-ostim-profile-1/char-grinn-base-ostim-profile)
-
-</details>
-
-### Char Grinn MCO + OSTIM v1.2.1.1  
----  
-<details>
-
-- Current ESM + ESP total: 240
-
-- Animations:  14k+ (includes combat, misc, & adult animations)
-	
-If you're 18+ and want MCO combat, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
-
-[MOSTIM v1.1.1.0 vs. v1.2.1.1](https://loadorderlibrary.com/compare/char-grinn-mco-ostim-profile-1/char-grinn-mco-ostim-profile)
 
 </details>
 
 ## REQUIREMENTS
 <details>
 
-- [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/)
+- [Skyrim Anniversary Edition v1.6.1130](https://store.steampowered.com/sub/626153/)
 - [Skyrim Special Edition Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
-- [LoversLab Account](https://www.loverslab.com/)
 
 </details>
 
@@ -207,12 +173,10 @@ This shouldn't happen unless you download the list multiple times or download mu
 ##  DEFAULT CONFIGURATION
 <details>
 
-- QUALITY SETTINGS: Custom Medium (BethINI)
+- QUALITY SETTINGS: Custom HIGH (BethINI)
 - RESOLUTION: 1920 x 1080 (BethINI)
 - CONTROLS: Keyboard & Mouse
 - ENB PROFILE: Char Grinn NO HOPE
-
-_Note – KB & Mouse / GamePad++ layouts are under #cg-support PINS._
 
 [Skyrim Priority Setup](https://www.youtube.com/watch?v=FKR0zaiIUGU)
 I DO recommend everyone do this if comfortable as it DOES make a difference! The required
@@ -221,7 +185,6 @@ If you don't want to, no worries, just disable the mod entirely.
 
 </details>
 
-
 ##  STARTING A NEW GAME
 <details>
 
@@ -229,7 +192,7 @@ The steps below are REQUIRED if playing the modlist in its' current iteration. F
 
 1.	New Game
 2.	Remain at Helgen scene until ALL messages finish
-3.	Press Enter and choose Humble Beginnings (you will be nude in Racemenu!).
+3.	Press ENTER and choose your preferred origin
 4.	Next screen, create your character
 5.	Choose Stay Here when finished
 6.	Read the Welcome to Char Grinn note on the door and follow the steps!
