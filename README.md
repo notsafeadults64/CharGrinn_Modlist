@@ -73,7 +73,6 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 <details>
 
 - [Skyrim Anniversary Edition v1.6.1170](https://store.steampowered.com/sub/626153/)
-- [Skyrim Special Edition Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 
 </details>
