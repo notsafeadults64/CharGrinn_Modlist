@@ -39,7 +39,7 @@ Want to see my terrible captures to get an idea of how this modlist plays / look
 ---
 The Char Grinn Mod List comes in TWO profiles -
 
-### Char Grinn v1.3.0.0 (Unreleased)
+### Char Grinn v1.3.0.0 (Released 02/14/2024)
 ---  
 <details>
 
