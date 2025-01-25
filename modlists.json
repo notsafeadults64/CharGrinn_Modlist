@@ -43,51 +43,5 @@
     "dateCreated": "2024-07-06T12:18:15Z",
     "dateUpdated": "2024-07-06T12:18:15Z",
     "repositoryName": ""
-  },
-  {
-    "title": "CharGrinn - OSTIM",
-    "description": "Visceral & Grim.  Combat Style similar to Elden Ring & Dark Souls (Slow & Methodical) + Adult Situations ;)",
-    
-    "author": "NotSafeForAdults64",
-    "maintainers": [
-      "github/notsafeforadults64"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "AE",
-      "MCO",
-      "Visceral",
-      "Grim",
-      "Apothecary",
-      "Vokrii",
-      "SCAR",
-      "Valhalla",
-      "Creation Club",
-      "OSTIM"
-    ],
-    "nsfw": true,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_Logo_OSTIM.png",
-      "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CharGrinn%20OSTIM.wabbajack_e4b3a3d5-f781-4c38-805b-5639fef1c521",
-      "machineURL": "CharGrinnOSTIM",
-      "discordURL": "https://discord.gg/XBQSxJeDAc"
-    },
-    "download_metadata": {
-      "Hash": "cS1BysuhBxo=",
-      "Size": 742202630,
-      "NumberOfArchives": 2059,
-      "SizeOfArchives": 197496253852,
-      "NumberOfInstalledFiles": 410075,
-      "SizeOfInstalledFiles": 287182762740
-    },
-    "version": "1.3.0.2",
-    "dateCreated": "2024-09-01T12:55:15Z",
-    "dateUpdated": "2024-09-01T12:55:15Z",
-    "repositoryName": ""
   }
 ]
