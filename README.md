@@ -18,7 +18,7 @@ _Dynamic: changes game's difficulty level depending on the level of the player. 
 
 ## INTRODUCTION
 
-**Wabbajack Version: 1.3.0.1 (Released 03/01/2024)**  
+**Wabbajack Version: 1.4.0.0 (Released 01/25/2025)**  
 
 *Permanent Support Home:  [NotSafeForAdults64 Discord](https://discord.gg/XBQSxJeDAc)*  
 
@@ -28,42 +28,28 @@ If you're looking for a gaming experience that's gritty and intense, you've come
 
 I have carefully curated this mod list based on my own experiences, research, & vision.  I'm confident that you'll find something that suits your taste.
 
-Want to see my terrible captures to get an idea of how this modlist plays / looks?
-
-- My YouTube focused on this playlist:
-[NotSafeforAdults64](https://www.youtube.com/@notsafeforadults64)
-
-- Biggie_Boss' Stream of v1.3 pre-release!!!!
-[NEW UPDATE V1.3 | THE Viceral Gritty Modern Combat Modlist - Char Grinn](https://www.youtube.com/watch?v=8ZwR236tq3c)
-
 ---
 The Char Grinn Mod List comes in TWO profiles -
 
-### Char Grinn v1.3.0.1 (Released 03/01/2024)
+### Char Grinn v1.4.0.0 (Released 01/25/2025)
 ---  
 <details>
 
-- Current ESM + ESP total: 223
-  
-- [Load Order Library Info](https://loadorderlibrary.com/lists/char-grinn-12)
+- Current ESM + ESP total: 231
 
 - Combat Style:  MCO Base (Elden Ring / Dark Souls (Slow and Methodical)
-
-- Animations:  1300+ (includes combat & misc animations)
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
 </details>
 
-### Char Grinn OSTIM v1.3.0.1 (Released 03/01/2024)
+### Char Grinn OSTIM v1.4.0.0 (PENDING)
 ---  
 <details>
 
-- Current ESM + ESP total: 228
+- Current ESM + ESP total: 
 
 - Combat Style:  MCO Base (Elden Ring / Dark Souls (Slow and Methodical)
-
-- Animations:  14k+ (includes combat & misc animations)
 
 If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
@@ -182,20 +168,4 @@ I DO recommend everyone do this if comfortable as it DOES make a difference! The
 mod is already in the list, you just have to do the calculator and mod file update parts.
 If you don't want to, no worries, just disable the mod entirely.
 
-</details>
-
-##  STARTING A NEW GAME
-<details>
-
-The steps below are REQUIRED if playing the modlist in its' current iteration. Failure to execute **MAY** impact your game further down the line making it CTD with no resolution to fix!!  It may seem like a lot to do, but it's actually a fairly quick process.
-
-1.	New Game
-2.	Remain at Helgen scene until ALL messages finish
-3.	Press ENTER and choose your preferred origin
-4.	Next screen, create your character
-5.	Choose Stay Here when finished
-6.	Read the Welcome to Char Grinn note on the door and follow the steps!
-
-For when you get to the Faster HDT-SMP part ;)  Setup based on YOUR computer configuration.
-https://discord.com/channels/1089604320225398867/1090339890882957382/1169276548331872370
 </details>
