@@ -43,11 +43,11 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn OSTIM v1.4.0.0 (PENDING)
+### Char Grinn OSTIM v1.4.0.0 (01/25/2025)
 ---  
 <details>
 
-- Current ESM + ESP total: 
+- Current ESM + ESP total: 239
 
 - Combat Style:  MCO Base (Fast and Brutal)
 
