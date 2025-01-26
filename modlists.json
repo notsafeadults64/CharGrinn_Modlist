@@ -1,7 +1,7 @@
 [
   {
     "title": "CharGrinn",
-    "description": "Visceral & Grim.  Combat Style similar to Elden Ring & Dark Souls (Slow & Methodical)",
+    "description": "Visceral & Grim.  Combat Style is Fast & Brutal"",
     
     "author": "NotSafeForAdults64",
     "maintainers": [
@@ -27,21 +27,69 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_Logo1.png",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_acdbff66-a44c-44cb-89a9-d2823ffa36ae",
+      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_8d5c71b0-19e1-45e1-8672-ec8c809327ad",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "bxAtfDwIo5A=",
-      "Size": 850983294,
-      "NumberOfArchives": 2252,
-      "SizeOfArchives": 210554644903,
-      "NumberOfInstalledFiles": 379639,
-      "SizeOfInstalledFiles": 304158148054
+      "Hash": "bNRC5W1drz0=",
+      "Size": 833714183,
+      "NumberOfArchives": 2229,
+      "SizeOfArchives": 192366725109,
+      "NumberOfInstalledFiles": 379633,
+      "SizeOfInstalledFiles": 304187166014
     },
-    "version": "1.4 .0.0",
+    "version": "1.4.0.0",
+    "dateCreated": "2025-01-25T12:18:15Z",
+    "dateUpdated": "2025-01-25T12:18:15Z",
+    "repositoryName": ""
+  },
+  [
+  {
+    "title": "CharGrinn OSTIM",
+    "description": "Visceral & Grim.  Combat Style is Fast & Brutal",
+    
+    "author": "NotSafeForAdults64",
+    "maintainers": [
+      "github/notsafeforadults64"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "AE",
+      "MCO",
+      "Visceral",
+      "Grim",
+      "Apothecary",
+      "Vokrii",
+      "SCAR",
+      "Valhalla",
+      "Creation Club",
+      "OSTIM"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_Logo_OSTIM.png",
+      "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_acdbff66-a44c-44cb-89a9-d2823ffa36ae",
+      "machineURL": "CharGrinnOSTIM",
+      "discordURL": "https://discord.gg/XBQSxJeDAc"
+    },
+    "download_metadata": {
+      "Hash": "fIi8E0JdBoQ=",
+      "Size": 850623374,
+      "NumberOfArchives": 2330,
+      "SizeOfArchives": 214860094934,
+      "NumberOfInstalledFiles": 441326,
+      "SizeOfInstalledFiles": 307146898786
+    },
+    "version": "1.4.0.0",
     "dateCreated": "2025-01-25T12:18:15Z",
     "dateUpdated": "2025-01-25T12:18:15Z",
     "repositoryName": ""
   }
+]
 ]
