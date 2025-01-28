@@ -169,3 +169,29 @@ mod is already in the list, you just have to do the calculator and mod file upda
 If you don't want to, no worries, just disable the mod entirely.
 
 </details>
+
+##  GETTING STARTED
+
+</details>
+
+1. Start New Game
+2. Press ENTER after the* 'Open the Skyrim Unbound MCM to being your adventure or press Enter to quick start with a preset'*
+3. Choose your preferred option from the choices provided.  For best experience, choose *'I AM the Dragonborn'*
+4. Create your character or choose from over 50+ community provided presets
+5. Choose *'Stay Here'* when prompted
+   *- Note: Pressing 'ENTER' will continually pop-up the choices so BE CAREFUL not to hit CONTINUE until you finish ALL STEPS!*
+6. Open the options menu and choose *'Mod Configuration'*
+7. Scroll down to MCM Recorder and play *1_CHARGRINN_GETTING_STARTED*.  Hit OK on all pop-ups that appear during the recording playback until you receive *'1_CHARGRINN_GETTING_STARTED has finished playing'*
+8. Read the OPTIONAL section below or press ENTER to start the game.
+
+**OPTIONAL**
+
+1. Open your Inventory and choose 1 or 2 scrolls to customize your character.  These will provide you with weapons, spells, and armor.
+2. Unload all unwanted items into the chest provided in the starting room.
+3. Within the chest you can also grab some Fur add-ons to help with the cold weather, food, shelter, torches, and the vanity mirror (if you want to change your character's appearance at a later date).
+4. Open your Spells and Choose 'Class Selection' and pick your buffs based on your character's playstyle.
+
+
+*The note on the door is outdated.  Will remove in an upcoming patch.*
+
+</details>
