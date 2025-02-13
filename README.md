@@ -59,6 +59,7 @@ If you're 18+ and looking for something even more intense, this Char Grinn NSFW 
 <details>
 
 - [Skyrim Anniversary Edition v1.6.1170](https://store.steampowered.com/sub/626153/)
+- - [Skyrim Special Edition Creation Kit] (https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 
 </details>
@@ -89,6 +90,10 @@ If you didn't see / do the step in the image below when you first launch Skyrim 
 [Skyrim Anniversary Edition Download prompt](https://preview.redd.it/nt92sg8mdxy71.png?width=3840&format=png&auto=webp&v=enabled&s=4ab3b1b975064119797409185cedd9dfc5c5e5e7)
 
 _Source: [Reddit Post](https://www.reddit.com/r/skyrim/comments/qrgion/screenshots_on_xbox_series_x/)_
+
+**Install Skyrim Special Edition Creation Kit** 
+
+Creation Kit is required and must be open once and have the scripts.zip file extracted when prompted.  Then close Creation Kit.
 
 **Do Not Use Any Part of This List in a Protected Folder**
 
