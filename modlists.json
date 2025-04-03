@@ -27,21 +27,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn.webp",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_b1de855f-f798-4ce6-95ce-eccbb253f5cd",
+      "download": "https://authored-files.wabbajack.org/CharGrinn.wabbajack_5e63c57e-13aa-4f66-bec9-02cda61a4df9",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "vtjaTozRIuM=",
-      "Size": 833796183,
-      "NumberOfArchives": 2229,
-      "SizeOfArchives": 192366725109,
-      "NumberOfInstalledFiles": 379625,
-      "SizeOfInstalledFiles": 304187034981
+      "Hash": "G1mwyiBZHLo=",
+      "Size": 364683093,
+      "NumberOfArchives": 2348,
+      "SizeOfArchives": 196067716314,
+      "NumberOfInstalledFiles": 361053,
+      "SizeOfInstalledFiles": 316731663414
     },
-    "version": "1.4.0.0",
-    "dateCreated": "2025-01-27T12:18:15Z",
-    "dateUpdated": "2025-01-27T12:18:15Z",
+    "version": "1.4.1.0",
+    "dateCreated": "2025-04-03T12:18:15Z",
+    "dateUpdated": "2025-04-03T12:18:15Z",
     "repositoryName": ""
   },
   {
