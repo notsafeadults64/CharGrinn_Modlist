@@ -31,11 +31,11 @@ I have carefully curated this mod list based on my own experiences, research, & 
 ---
 The Char Grinn Mod List comes in TWO profiles -
 
-### Char Grinn v1.4.0.0 (Released 01/25/2025)
+### Char Grinn v1.4.1.0 (Released 04/03/2025)
 ---  
 <details>
 
-- Current ESM + ESP total: 233
+- Current ESM + ESP total: 242
 
 - Combat Style:  MCO Base (Fast and Brutal)
 
@@ -43,11 +43,11 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 </details>
 
-### Char Grinn OSTIM v1.4.0.0 (01/25/2025)
+### Char Grinn OSTIM v1.4.1.0 (04/03/2025)
 ---  
 <details>
 
-- Current ESM + ESP total: 239
+- Current ESM + ESP total: 249
 
 - Combat Style:  MCO Base (Fast and Brutal)
 
