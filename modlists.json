@@ -32,16 +32,16 @@
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "PBsWuzADbNo=",
-      "Size": 364800186,
-      "NumberOfArchives": 2375,
-      "SizeOfArchives": 196127789336,
-      "NumberOfInstalledFiles": 361363,
-      "SizeOfInstalledFiles": 317011651774
+      "Hash": "YBgzEm6Mlnk=",
+      "Size": 940442787,
+      "NumberOfArchives": 2396,
+      "SizeOfArchives": 201927868609,
+      "NumberOfInstalledFiles": 363484,
+      "SizeOfInstalledFiles": 319540406704
     },
-    "version": "1.4.1.0",
-    "dateCreated": "2025-04-03T12:18:15Z",
-    "dateUpdated": "2025-04-03T12:18:15Z",
+    "version": "1.4.1.1",
+    "dateCreated": "2025-04-08T12:18:15Z",
+    "dateUpdated": "2025-04-08T12:18:15Z",
     "repositoryName": ""
   },
   {
@@ -78,16 +78,16 @@
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "SJk5tzjoE14=",
-      "Size": 381329181,
-      "NumberOfArchives": 2485,
-      "SizeOfArchives": 201989401358,
-      "NumberOfInstalledFiles": 440722,
-      "SizeOfInstalledFiles": 322708071693
+      "Hash": "JQDjhbxAqy4=",
+      "Size": 957036716,
+      "NumberOfArchives": 2502,
+      "SizeOfArchives": 204102978438,
+      "NumberOfInstalledFiles": 442860,
+      "SizeOfInstalledFiles": 325249072975
     },
-    "version": "1.4.1.0",
-    "dateCreated": "2025-04-03T12:18:15Z",
-    "dateUpdated": "2025-04-03T12:18:15Z",
+    "version": "1.4.1.1",
+    "dateCreated": "2025-04-08T12:18:15Z",
+    "dateUpdated": "2025-04-08T12:18:15Z",
     "repositoryName": ""
   }
 ]
