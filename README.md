@@ -3,7 +3,7 @@
 | Image |
 |:-----:|
 | ![Char Grinn Title Image](https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/readme.webp) |
-![Char Grinn Title Image](https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/GamepadMap.webp)
+| ![Char Grinn Title Image](https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/GamepadMap.webp) |
 
 ## Visceral & Grim
 
