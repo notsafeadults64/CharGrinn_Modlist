@@ -1,6 +1,6 @@
 # CHAR GRINN
 
-![Char Grinn Title Image](https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/CharGrinn_Logo1.png)
+![Char Grinn Title Image](https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/readme.webp)
 
 ## Visceral & Grim
 
