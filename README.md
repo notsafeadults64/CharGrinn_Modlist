@@ -38,7 +38,7 @@ The Char Grinn Mod List comes in TWO profiles -
 
 - Current ESM + ESP total: 233
 
-- Combat Style:  MCO Base (Fast and Brutal)
+- Combat Style:  ADXP (Fast and Brutal)
 
 This profile is for mature audiences and contains nudity and violence. It's not for the faint of heart, but if you're looking for a gaming experience that's raw and unfiltered, this is the profile for you.
 
@@ -50,7 +50,7 @@ This profile is for mature audiences and contains nudity and violence. It's not 
 
 - Current ESM + ESP total: 239
 
-- Combat Style:  MCO Base (Fast and Brutal)
+- Combat Style:  ADXP (Fast and Brutal)
 
 If you're 18+ and looking for something even more intense, this Char Grinn NSFW profile is for you. It contains nudity, sexual content, and violence.  Please use discretion when choosing to use this profile.
 
