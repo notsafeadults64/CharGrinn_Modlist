@@ -23,25 +23,25 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn.webp",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Char%20Grinn.wabbajack_b23a0815-3762-4e76-b60a-75685065ca46",
+      "download": "https://authored-files.wabbajack.org/Char%20Grinn.wabbajack_1acbf7d9-71d0-4891-ad8d-df84329acde6",
       "machineURL": "CharGrinn",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "njkbvdjLaYk=",
-      "Size": 2750622161,
-      "NumberOfArchives": 2598,
-      "SizeOfArchives": 232610802569,
-      "NumberOfInstalledFiles": 317943,
-      "SizeOfInstalledFiles": 334729771072
+      "Hash": "ksDewTGg8y8=",
+      "Size": 438344176,
+      "NumberOfArchives": 2583,
+      "SizeOfArchives": 232248014038,
+      "NumberOfInstalledFiles": 350034,
+      "SizeOfInstalledFiles": 337062458996
     },
     "version": "1.5.0.0",
-    "dateCreated": "2025-08-16T12:18:15Z",
-    "dateUpdated": "2025-08-16T12:18:15Z",
+    "dateCreated": "2025-08-17T12:18:15Z",
+    "dateUpdated": "2025-08-17T12:18:15Z",
     "repositoryName": ""
   },
   {
@@ -69,25 +69,25 @@
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_OSTIM.webp",
       "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Char%20Grinn%20OSTIM.wabbajack_42b81706-40b2-4f6a-b849-a6b758785ff5",
+      "download": "https://authored-files.wabbajack.org/Char%20Grinn%20OSTIM.wabbajack_a35ffbcb-369d-43cb-b3de-bf119bf2929b",
       "machineURL": "CharGrinnOSTIM",
       "discordURL": "https://discord.gg/XBQSxJeDAc"
     },
     "download_metadata": {
-      "Hash": "/eGfaszuvwc=",
-      "Size": 2754646829,
-      "NumberOfArchives": 2714,
-      "SizeOfArchives": 240018903616,
-      "NumberOfInstalledFiles": 467533,
-      "SizeOfInstalledFiles": 347477808077
+      "Hash": "3evr8Hc886s=",
+      "Size": 1035042977,
+      "NumberOfArchives": 2675,
+      "SizeOfArchives": 234637197134,
+      "NumberOfInstalledFiles": 404336,
+      "SizeOfInstalledFiles": 336841374334
     },
     "version": "1.5.0.0",
-    "dateCreated": "2025-08-16T12:18:15Z",
-    "dateUpdated": "2025-08-16T12:18:15Z",
+    "dateCreated": "2025-08-17T12:18:15Z",
+    "dateUpdated": "2025-08-17T12:18:15Z",
     "repositoryName": ""
   }
 ]
