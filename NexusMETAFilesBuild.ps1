@@ -4,27 +4,38 @@ $primaryGame = "skyrimspecialedition"
 $secondaryGame = "skyrim" # Fallback for older mods
 $mo2GameName = "SkyrimSE"
 
-$logFile = Join-Path $downloadPath "failed_meta_queries.txt"
-"--- Meta Build Log $(Get-Date) ---" | Out-File -FilePath $logFile
+$primaryGame = "skyrimspecialedition" 
+$secondaryGame = "skyrim" # Fallback for older mods
+$mo2GameName = "SkyrimSE"
 
 $headers = @{ "apikey" = $apiKey; "accept" = "application/json" }
 
 Get-ChildItem -Path $downloadPath -Exclude "*.meta", "*.txt" | ForEach-Object {
     $file = $_
     $metaPath = "$($file.FullName).meta"
+
+    # 1. SKIP IF META EXISTS
     if (Test-Path $metaPath) { return }
 
-    if ($file.BaseName -match '-(?<modID>\d+)-(?<version>[\d\.-]+)-(?<fileID>\d+)$') {
+    # 2. IMPROVED REGEX: Handles "Name-ModID-Version-FileID"
+    if ($file.BaseName -match '-(?<modID>\d+)-(?<version>.*)-(?<fileID>\d+)$') {
         $modID = $Matches['modID']
         $fileID = $Matches['fileID']
         $version = $Matches['version']
-        $foundGame = $null
-        $modData = $null
+
+        # 3. SAFETY SWAP: If the first ID is huge (10 digits), it's a FileID timestamp
+        if ($modID.Length -ge 9) {
+            $temp = $modID
+            $modID = $fileID
+            $fileID = $temp
+        }
 
         try {
-            Write-Host "Processing Mod ${modID}..." -ForegroundColor Cyan
+            Write-Host "Targeting Mod: ${modID} | File: ${fileID}" -ForegroundColor Cyan
             
-            # 1. Double-Tap Logic: Try Primary, then Secondary
+            # 4. DOMAIN CHECK (SSE vs Oldrim)
+            $foundGame = $null
+            $modData = $null
             foreach ($game in @($primaryGame, $secondaryGame)) {
                 try {
                     $modUrl = "https://api.nexusmods.com/v1/games/$game/mods/$modID.json"
@@ -34,9 +45,9 @@ Get-ChildItem -Path $downloadPath -Exclude "*.meta", "*.txt" | ForEach-Object {
                 } catch { continue }
             }
 
-            if (-not $modData) { throw "Mod not found on $primaryGame or $secondaryGame" }
+            if (-not $modData) { throw "Mod ID ${modID} not found on Nexus." }
 
-            # 2. Attempt Specific File Data (for the better name/description)
+            # 5. FILE DATA QUERY
             $fileData = $null
             try {
                 $fileUrl = "https://api.nexusmods.com/v1/games/$foundGame/mods/$modID/files/$fileID.json"
@@ -45,13 +56,12 @@ Get-ChildItem -Path $downloadPath -Exclude "*.meta", "*.txt" | ForEach-Object {
                 Write-Host "  (!) FileID ${fileID} 404'd. Falling back to Mod info." -ForegroundColor Yellow
             }
 
-            # 3. Construct the missing URL and data
+            # 6. CONSTRUCT META CONTENT
             $nexusUrl = "https://www.nexusmods.com/$foundGame/mods/$modID"
             $finalName = if ($fileData) { $fileData.name } else { $modData.name }
             $rawDesc = if ($fileData -and $fileData.description) { $fileData.description } else { $modData.summary }
             $cleanDesc = $rawDesc -replace "`n", "\n" -replace "`r", "" -replace '"', '\"'
 
-            # 4. Build .meta with URL field populated
             $metaContent = @"
 [General]
 gameName=$mo2GameName
@@ -67,18 +77,20 @@ fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
 fileCategory=1
 category=$($modData.category_id)
 repository=Nexus
-userData=@Variant(\0\0\0\b\0\0\0\0)
 installed=false
-uninstalled=false
 "@
             Set-Content -Path $metaPath -Value $metaContent -Encoding UTF8
-            Write-Host "  [OK] Created .meta (URL: $foundGame) for: $finalName" -ForegroundColor Green
+            Write-Host "  [SUCCESS] Created meta for: $finalName" -ForegroundColor Green
         }
         catch {
-            $errorMessage = "FAILED: Mod ${modID} (File: $($file.Name)) - $($_.Exception.Message)"
-            Write-Host "  [!!] $errorMessage" -ForegroundColor Red
-            $errorMessage | Add-Content -Path $logFile
+            # FIX: Using ${modID} to avoid the drive-reference error
+            Write-Host "  [SKIP] API Error for Mod ${modID}: $($_.Exception.Message)" -ForegroundColor Red
         }
-        Start-Sleep -Milliseconds 350
     }
+    else {
+        Write-Host "  [IGNORE] Could not find ID pattern in: $($file.Name)" -ForegroundColor DarkGray
+    }
+    
+    # Respect API Rate Limits
+    Start-Sleep -Milliseconds 350
 }
